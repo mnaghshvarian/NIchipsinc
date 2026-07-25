@@ -1,13 +1,13 @@
 {
- "generated": "2026-07-25 09:05:14 UTC",
+ "generated": "2026-07-25 10:05:14 UTC",
  "started": "2026-07-15 20:00",
- "days_running": 9.5,
+ "days_running": 9.6,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 20000.0,
-  "value_now": 20162.13,
-  "unrealized": 162.13,
-  "unrealized_pct": 0.81,
+  "value_now": 20184.35,
+  "unrealized": 184.35,
+  "unrealized_pct": 0.92,
   "open_positions": 20,
   "up": 7,
   "down": 13,
@@ -16,8 +16,8 @@
   "capital_after_closed": 23000.0,
   "realized": 0.0,
   "realized_pct": 0.0,
-  "total_value": 23162.13,
-  "total_pct": 0.7
+  "total_value": 23184.35,
+  "total_pct": 0.8
  },
  "out_of_market": [
   {
@@ -82,13 +82,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 331.8248291015625,
-   "mark": 366.29119873046875,
-   "mark_when": "2026-07-25 09:03",
+   "mark": 366.00048828125,
+   "mark_when": "2026-07-25 10:03",
    "frozen": false,
    "jump": null,
-   "upl_pct": 20.77,
+   "upl_pct": 20.6,
    "capital": 1000.0,
-   "equity_now": 1207.74,
+   "equity_now": 1205.99,
    "opened": "2026-07-15 20:12"
   },
   {
@@ -99,13 +99,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 45.0099983215332,
-   "mark": 45.79999923706055,
-   "mark_when": "2026-07-25 09:05",
+   "mark": 45.86000061035156,
+   "mark_when": "2026-07-25 10:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": 3.51,
+   "upl_pct": 3.78,
    "capital": 1000.0,
-   "equity_now": 1035.1,
+   "equity_now": 1037.77,
    "opened": "2026-07-15 20:15"
   },
   {
@@ -246,6 +246,23 @@
   },
   {
    "n": 13,
+   "symbol": "Bitcoin",
+   "ticker": "BTC-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 64904.3984375,
+   "mark": 63956.26953125,
+   "mark_when": "2026-07-25 10:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -2.92,
+   "capital": 1000.0,
+   "equity_now": 970.78,
+   "opened": "2026-07-15 20:14"
+  },
+  {
+   "n": 14,
    "symbol": "GBP/USD",
    "ticker": "GBPUSD=X",
    "side": "LONG",
@@ -260,23 +277,6 @@
    "capital": 1000.0,
    "equity_now": 967.9,
    "opened": "2026-07-15 20:15"
-  },
-  {
-   "n": 14,
-   "symbol": "Bitcoin",
-   "ticker": "BTC-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 64904.3984375,
-   "mark": 63779.83984375,
-   "mark_when": "2026-07-25 09:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -3.47,
-   "capital": 1000.0,
-   "equity_now": 965.35,
-   "opened": "2026-07-15 20:14"
   },
   {
    "n": 15,
@@ -303,13 +303,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1921.719970703125,
-   "mark": 1851.010009765625,
-   "mark_when": "2026-07-25 09:05",
+   "mark": 1857.1600341796875,
+   "mark_when": "2026-07-25 10:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -7.36,
+   "upl_pct": -6.72,
    "capital": 1000.0,
-   "equity_now": 926.41,
+   "equity_now": 932.81,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -320,13 +320,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 77.16000366210938,
-   "mark": 73.69999694824219,
-   "mark_when": "2026-07-25 09:05",
+   "mark": 73.94000244140625,
+   "mark_when": "2026-07-25 10:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -8.97,
+   "upl_pct": -8.35,
    "capital": 1000.0,
-   "equity_now": 910.32,
+   "equity_now": 916.54,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -371,13 +371,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 0.07382000237703323,
-   "mark": 0.06936000287532806,
-   "mark_when": "2026-07-25 09:05",
+   "mark": 0.06948000192642212,
+   "mark_when": "2026-07-25 10:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -12.08,
+   "upl_pct": -11.76,
    "capital": 1000.0,
-   "equity_now": 879.17,
+   "equity_now": 882.42,
    "opened": "2026-07-15 20:14"
   }
  ]

@@ -1,13 +1,13 @@
 {
- "generated": "2026-07-26 07:05:15 UTC",
+ "generated": "2026-07-26 08:05:14 UTC",
  "started": "2026-07-15 20:00",
  "days_running": 10.5,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 20000.0,
-  "value_now": 20392.01,
-  "unrealized": 392.01,
-  "unrealized_pct": 1.96,
+  "value_now": 20369.29,
+  "unrealized": 369.29,
+  "unrealized_pct": 1.85,
   "open_positions": 20,
   "up": 7,
   "down": 13,
@@ -16,8 +16,8 @@
   "capital_after_closed": 23000.0,
   "realized": 0.0,
   "realized_pct": 0.0,
-  "total_value": 23392.01,
-  "total_pct": 1.7
+  "total_value": 23369.29,
+  "total_pct": 1.61
  },
  "out_of_market": [
   {
@@ -82,13 +82,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 331.8248291015625,
-   "mark": 363.95977783203125,
-   "mark_when": "2026-07-26 07:03",
+   "mark": 362.7833557128906,
+   "mark_when": "2026-07-26 08:03",
    "frozen": false,
    "jump": null,
-   "upl_pct": 19.37,
+   "upl_pct": 18.66,
    "capital": 1000.0,
-   "equity_now": 1193.69,
+   "equity_now": 1186.6,
    "opened": "2026-07-15 20:12"
   },
   {
@@ -99,13 +99,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 45.0099983215332,
-   "mark": 46.83000183105469,
-   "mark_when": "2026-07-26 07:04",
+   "mark": 46.959999084472656,
+   "mark_when": "2026-07-26 08:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 8.09,
+   "upl_pct": 8.66,
    "capital": 1000.0,
-   "equity_now": 1080.87,
+   "equity_now": 1086.65,
    "opened": "2026-07-15 20:15"
   },
   {
@@ -195,23 +195,6 @@
   },
   {
    "n": 10,
-   "symbol": "Dogecoin",
-   "ticker": "DOGE-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 0.07382000237703323,
-   "mark": 0.07349999994039536,
-   "mark_when": "2026-07-26 07:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -0.87,
-   "capital": 1000.0,
-   "equity_now": 991.33,
-   "opened": "2026-07-15 20:14"
-  },
-  {
-   "n": 11,
    "symbol": "NatGas",
    "ticker": "NG=F",
    "side": "LONG",
@@ -228,7 +211,7 @@
    "opened": "2026-07-15 20:04"
   },
   {
-   "n": 12,
+   "n": 11,
    "symbol": "Copper",
    "ticker": "HG=F",
    "side": "LONG",
@@ -245,6 +228,23 @@
    "opened": "2026-07-15 20:04"
   },
   {
+   "n": 12,
+   "symbol": "Dogecoin",
+   "ticker": "DOGE-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 0.07382000237703323,
+   "mark": 0.07320000231266022,
+   "mark_when": "2026-07-26 08:04",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -1.68,
+   "capital": 1000.0,
+   "equity_now": 983.2,
+   "opened": "2026-07-15 20:14"
+  },
+  {
    "n": 13,
    "symbol": "Bitcoin",
    "ticker": "BTC-USD",
@@ -252,13 +252,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 64904.3984375,
-   "mark": 64371.55078125,
-   "mark_when": "2026-07-26 07:04",
+   "mark": 64295.6796875,
+   "mark_when": "2026-07-26 08:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -1.64,
+   "upl_pct": -1.88,
    "capital": 1000.0,
-   "equity_now": 983.58,
+   "equity_now": 981.24,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -297,23 +297,6 @@
   },
   {
    "n": 16,
-   "symbol": "Ethereum",
-   "ticker": "ETH-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 1921.719970703125,
-   "mark": 1883.010009765625,
-   "mark_when": "2026-07-26 07:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -4.03,
-   "capital": 1000.0,
-   "equity_now": 959.71,
-   "opened": "2026-07-15 20:14"
-  },
-  {
-   "n": 17,
    "symbol": "S&P 500",
    "ticker": "^GSPC",
    "side": "LONG",
@@ -330,6 +313,23 @@
    "opened": "2026-07-15 20:00"
   },
   {
+   "n": 17,
+   "symbol": "Ethereum",
+   "ticker": "ETH-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 1921.719970703125,
+   "mark": 1878.469970703125,
+   "mark_when": "2026-07-26 08:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -4.5,
+   "capital": 1000.0,
+   "equity_now": 954.99,
+   "opened": "2026-07-15 20:14"
+  },
+  {
    "n": 18,
    "symbol": "Solana",
    "ticker": "SOL-USD",
@@ -337,13 +337,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 77.16000366210938,
-   "mark": 75.02999877929688,
-   "mark_when": "2026-07-26 07:05",
+   "mark": 74.79000091552734,
+   "mark_when": "2026-07-26 08:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -5.52,
+   "upl_pct": -6.14,
    "capital": 1000.0,
-   "equity_now": 944.79,
+   "equity_now": 938.57,
    "opened": "2026-07-15 20:14"
   },
   {

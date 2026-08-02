@@ -1,13 +1,13 @@
 {
- "generated": "2026-08-02 06:05:14 UTC",
+ "generated": "2026-08-02 07:05:14 UTC",
  "started": "2026-07-15 20:00",
- "days_running": 17.4,
+ "days_running": 17.5,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 20000.0,
-  "value_now": 19894.66,
-  "unrealized": -105.34,
-  "unrealized_pct": -0.53,
+  "value_now": 19887.17,
+  "unrealized": -112.83,
+  "unrealized_pct": -0.56,
   "open_positions": 20,
   "up": 6,
   "down": 14,
@@ -16,8 +16,8 @@
   "capital_after_closed": 23000.0,
   "realized": 0.0,
   "realized_pct": 0.0,
-  "total_value": 22894.66,
-  "total_pct": -0.46
+  "total_value": 22887.17,
+  "total_pct": -0.49
  },
  "out_of_market": [
   {
@@ -48,13 +48,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 331.8248291015625,
-   "mark": 364.98175048828125,
-   "mark_when": "2026-08-02 06:03",
+   "mark": 364.70806884765625,
+   "mark_when": "2026-08-02 07:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": 19.98,
+   "upl_pct": 19.82,
    "capital": 1000.0,
-   "equity_now": 1199.85,
+   "equity_now": 1198.2,
    "opened": "2026-07-15 20:12"
   },
   {
@@ -195,6 +195,23 @@
   },
   {
    "n": 10,
+   "symbol": "Litecoin",
+   "ticker": "LTC-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 45.0099983215332,
+   "mark": 44.779998779296875,
+   "mark_when": "2026-08-02 07:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -1.02,
+   "capital": 1000.0,
+   "equity_now": 989.78,
+   "opened": "2026-07-15 20:15"
+  },
+  {
+   "n": 11,
    "symbol": "Silver",
    "ticker": "SI=F",
    "side": "LONG",
@@ -209,23 +226,6 @@
    "capital": 1000.0,
    "equity_now": 988.47,
    "opened": "2026-07-15 20:04"
-  },
-  {
-   "n": 11,
-   "symbol": "Litecoin",
-   "ticker": "LTC-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 45.0099983215332,
-   "mark": 44.70000076293945,
-   "mark_when": "2026-08-02 06:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -1.38,
-   "capital": 1000.0,
-   "equity_now": 986.23,
-   "opened": "2026-07-15 20:15"
   },
   {
    "n": 12,
@@ -269,13 +269,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 64904.3984375,
-   "mark": 63405.55859375,
-   "mark_when": "2026-08-02 06:04",
+   "mark": 63414.51953125,
+   "mark_when": "2026-08-02 07:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -4.62,
+   "upl_pct": -4.59,
    "capital": 1000.0,
-   "equity_now": 953.81,
+   "equity_now": 954.09,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -286,13 +286,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1921.719970703125,
-   "mark": 1875.969970703125,
-   "mark_when": "2026-08-02 06:05",
+   "mark": 1875.3399658203125,
+   "mark_when": "2026-08-02 07:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -4.76,
+   "upl_pct": -4.83,
    "capital": 1000.0,
-   "equity_now": 952.39,
+   "equity_now": 951.73,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -354,13 +354,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 0.07382000237703323,
-   "mark": 0.07039999961853027,
-   "mark_when": "2026-08-02 06:04",
+   "mark": 0.07022999972105026,
+   "mark_when": "2026-08-02 07:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -9.27,
+   "upl_pct": -9.73,
    "capital": 1000.0,
-   "equity_now": 907.34,
+   "equity_now": 902.74,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -371,13 +371,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 77.16000366210938,
-   "mark": 73.52999877929688,
-   "mark_when": "2026-08-02 06:05",
+   "mark": 73.36000061035156,
+   "mark_when": "2026-08-02 07:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -9.41,
+   "upl_pct": -9.85,
    "capital": 1000.0,
-   "equity_now": 905.91,
+   "equity_now": 901.5,
    "opened": "2026-07-15 20:14"
   }
  ]

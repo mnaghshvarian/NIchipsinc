@@ -1,13 +1,13 @@
 {
- "generated": "2026-08-02 20:05:13 UTC",
+ "generated": "2026-08-02 21:05:14 UTC",
  "started": "2026-07-15 20:00",
  "days_running": 18.0,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 20000.0,
-  "value_now": 19905.79,
-  "unrealized": -94.21,
-  "unrealized_pct": -0.47,
+  "value_now": 19918.29,
+  "unrealized": -81.71,
+  "unrealized_pct": -0.41,
   "open_positions": 20,
   "up": 6,
   "down": 14,
@@ -16,8 +16,8 @@
   "capital_after_closed": 23000.0,
   "realized": 0.0,
   "realized_pct": 0.0,
-  "total_value": 22905.79,
-  "total_pct": -0.41
+  "total_value": 22918.29,
+  "total_pct": -0.36
  },
  "out_of_market": [
   {
@@ -48,13 +48,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 331.8248291015625,
-   "mark": 364.0126953125,
-   "mark_when": "2026-08-02 20:02",
+   "mark": 364.1696472167969,
+   "mark_when": "2026-08-02 21:03",
    "frozen": false,
    "jump": null,
-   "upl_pct": 19.4,
+   "upl_pct": 19.5,
    "capital": 1000.0,
-   "equity_now": 1194.01,
+   "equity_now": 1194.95,
    "opened": "2026-07-15 20:12"
   },
   {
@@ -144,23 +144,6 @@
   },
   {
    "n": 7,
-   "symbol": "Litecoin",
-   "ticker": "LTC-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 45.0099983215332,
-   "mark": 44.939998626708984,
-   "mark_when": "2026-08-02 20:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -0.31,
-   "capital": 1000.0,
-   "equity_now": 996.89,
-   "opened": "2026-07-15 20:15"
-  },
-  {
-   "n": 8,
    "symbol": "USD/CAD",
    "ticker": "USDCAD=X",
    "side": "LONG",
@@ -177,7 +160,7 @@
    "opened": "2026-07-15 20:15"
   },
   {
-   "n": 9,
+   "n": 8,
    "symbol": "Dow",
    "ticker": "^DJI",
    "side": "LONG",
@@ -192,6 +175,23 @@
    "capital": 1000.0,
    "equity_now": 993.41,
    "opened": "2026-07-15 20:00"
+  },
+  {
+   "n": 9,
+   "symbol": "Litecoin",
+   "ticker": "LTC-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 45.0099983215332,
+   "mark": 44.849998474121094,
+   "mark_when": "2026-08-02 21:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -0.71,
+   "capital": 1000.0,
+   "equity_now": 992.89,
+   "opened": "2026-07-15 20:15"
   },
   {
    "n": 10,
@@ -246,6 +246,23 @@
   },
   {
    "n": 13,
+   "symbol": "Ethereum",
+   "ticker": "ETH-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 1921.719970703125,
+   "mark": 1884.5799560546875,
+   "mark_when": "2026-08-02 21:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -3.87,
+   "capital": 1000.0,
+   "equity_now": 961.35,
+   "opened": "2026-07-15 20:14"
+  },
+  {
+   "n": 14,
    "symbol": "Platinum",
    "ticker": "PL=F",
    "side": "LONG",
@@ -262,23 +279,6 @@
    "opened": "2026-07-15 20:04"
   },
   {
-   "n": 14,
-   "symbol": "Ethereum",
-   "ticker": "ETH-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 1921.719970703125,
-   "mark": 1878.31005859375,
-   "mark_when": "2026-08-02 20:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -4.52,
-   "capital": 1000.0,
-   "equity_now": 954.82,
-   "opened": "2026-07-15 20:14"
-  },
-  {
    "n": 15,
    "symbol": "Bitcoin",
    "ticker": "BTC-USD",
@@ -286,13 +286,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 64904.3984375,
-   "mark": 63346.5,
-   "mark_when": "2026-08-02 20:05",
+   "mark": 63498.328125,
+   "mark_when": "2026-08-02 21:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -4.8,
+   "upl_pct": -4.33,
    "capital": 1000.0,
-   "equity_now": 951.99,
+   "equity_now": 956.67,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -337,17 +337,34 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 0.07382000237703323,
-   "mark": 0.07062000036239624,
-   "mark_when": "2026-08-02 20:04",
+   "mark": 0.07056999951601028,
+   "mark_when": "2026-08-02 21:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -8.67,
+   "upl_pct": -8.81,
    "capital": 1000.0,
-   "equity_now": 913.3,
+   "equity_now": 911.95,
    "opened": "2026-07-15 20:14"
   },
   {
    "n": 19,
+   "symbol": "Solana",
+   "ticker": "SOL-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 77.16000366210938,
+   "mark": 73.73999786376953,
+   "mark_when": "2026-08-02 21:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -8.86,
+   "capital": 1000.0,
+   "equity_now": 911.35,
+   "opened": "2026-07-15 20:14"
+  },
+  {
+   "n": 20,
    "symbol": "NatGas",
    "ticker": "NG=F",
    "side": "LONG",
@@ -362,23 +379,6 @@
    "capital": 1000.0,
    "equity_now": 908.41,
    "opened": "2026-07-15 20:04"
-  },
-  {
-   "n": 20,
-   "symbol": "Solana",
-   "ticker": "SOL-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 77.16000366210938,
-   "mark": 73.5199966430664,
-   "mark_when": "2026-08-02 20:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -9.43,
-   "capital": 1000.0,
-   "equity_now": 905.65,
-   "opened": "2026-07-15 20:14"
   }
  ]
 }

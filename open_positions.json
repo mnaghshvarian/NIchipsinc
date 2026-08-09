@@ -1,13 +1,13 @@
 {
- "generated": "2026-08-09 19:05:14 UTC",
+ "generated": "2026-08-09 20:05:14 UTC",
  "started": "2026-07-15 20:00",
  "days_running": 25.0,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 17000.0,
-  "value_now": 17857.36,
-  "unrealized": 857.36,
-  "unrealized_pct": 5.04,
+  "value_now": 17869.66,
+  "unrealized": 869.66,
+  "unrealized_pct": 5.12,
   "open_positions": 17,
   "up": 11,
   "down": 6,
@@ -16,8 +16,8 @@
   "capital_after_closed": 22632.15,
   "realized": -367.85,
   "realized_pct": -1.6,
-  "total_value": 23489.51,
-  "total_pct": 2.13
+  "total_value": 23501.81,
+  "total_pct": 2.18
  },
  "out_of_market": [
   {
@@ -66,13 +66,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 331.8248291015625,
-   "mark": 391.7055969238281,
-   "mark_when": "2026-08-09 19:03",
+   "mark": 395.009521484375,
+   "mark_when": "2026-08-09 20:03",
    "frozen": false,
    "jump": null,
-   "upl_pct": 36.09,
+   "upl_pct": 38.08,
    "capital": 1000.0,
-   "equity_now": 1360.92,
+   "equity_now": 1380.83,
    "opened": "2026-07-15 20:12"
   },
   {
@@ -145,23 +145,6 @@
   },
   {
    "n": 6,
-   "symbol": "Litecoin",
-   "ticker": "LTC-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 45.0099983215332,
-   "mark": 46.20000076293945,
-   "mark_when": "2026-08-09 19:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": 5.29,
-   "capital": 1000.0,
-   "equity_now": 1052.88,
-   "opened": "2026-07-15 20:15"
-  },
-  {
-   "n": 7,
    "symbol": "Dow",
    "ticker": "^DJI",
    "side": "LONG",
@@ -178,7 +161,7 @@
    "opened": "2026-07-15 20:00"
   },
   {
-   "n": 8,
+   "n": 7,
    "symbol": "S&P 500",
    "ticker": "^GSPC",
    "side": "LONG",
@@ -193,6 +176,23 @@
    "capital": 1000.0,
    "equity_now": 1048.93,
    "opened": "2026-07-15 20:00"
+  },
+  {
+   "n": 8,
+   "symbol": "Litecoin",
+   "ticker": "LTC-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 45.0099983215332,
+   "mark": 46.09000015258789,
+   "mark_when": "2026-08-09 20:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": 4.8,
+   "capital": 1000.0,
+   "equity_now": 1047.99,
+   "opened": "2026-07-15 20:15"
   },
   {
    "n": 9,
@@ -236,13 +236,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 64904.3984375,
-   "mark": 65145.26953125,
-   "mark_when": "2026-08-09 19:05",
+   "mark": 65112.94921875,
+   "mark_when": "2026-08-09 20:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 0.74,
+   "upl_pct": 0.64,
    "capital": 1000.0,
-   "equity_now": 1007.42,
+   "equity_now": 1006.43,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -253,13 +253,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 77.16000366210938,
-   "mark": 77.1500015258789,
-   "mark_when": "2026-08-09 19:04",
+   "mark": 77.13999938964844,
+   "mark_when": "2026-08-09 20:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -0.03,
+   "upl_pct": -0.05,
    "capital": 1000.0,
-   "equity_now": 999.74,
+   "equity_now": 999.48,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -270,13 +270,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1921.719970703125,
-   "mark": 1920.6700439453125,
-   "mark_when": "2026-08-09 19:05",
+   "mark": 1920.31005859375,
+   "mark_when": "2026-08-09 20:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -0.11,
+   "upl_pct": -0.15,
    "capital": 1000.0,
-   "equity_now": 998.91,
+   "equity_now": 998.53,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -338,13 +338,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 0.07382000237703323,
-   "mark": 0.07045000046491623,
-   "mark_when": "2026-08-09 19:04",
+   "mark": 0.07040999829769135,
+   "mark_when": "2026-08-09 20:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -9.13,
+   "upl_pct": -9.24,
    "capital": 1000.0,
-   "equity_now": 908.7,
+   "equity_now": 907.61,
    "opened": "2026-07-15 20:14"
   }
  ]

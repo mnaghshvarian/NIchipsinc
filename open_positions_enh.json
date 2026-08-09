@@ -1,7 +1,33 @@
 {
- "generated": "2026-08-09 10:36:35 UTC",
- "started": "2026-07-23 20:00",
+ "generated": "2026-08-09 10:49:25 UTC",
  "track": "ENH-ISO",
+ "started": "2026-07-23 20:00",
+ "portfolio": {
+  "accounts": 8,
+  "initial_capital": 8000.0,
+  "capital_after_closed": 8159.05,
+  "realized": 159.05,
+  "realized_pct": 1.99,
+  "at_risk": 4921.63,
+  "unrealized": 235.72,
+  "unrealized_pct": 4.79,
+  "total_value": 8394.77,
+  "total_pct": 4.93
+ },
+ "out_of_market": [
+  {
+   "ticker": "BNB-USD",
+   "symbol": "BNB",
+   "capital": 1000.0,
+   "exhausted": false
+  },
+  {
+   "ticker": "XRP-USD",
+   "symbol": "XRP",
+   "capital": 1000.0,
+   "exhausted": false
+  }
+ ],
  "open_positions": [
   {
    "symbol": "Monero",
@@ -14,6 +40,8 @@
    "mark_when": "2026-08-09 10:04",
    "frozen": false,
    "group": "Crypto",
+   "deployed": 549.63,
+   "pl": 100.96,
    "upl_unit_pct": 18.37,
    "value": 1200.22
   },
@@ -28,6 +56,8 @@
    "mark_when": "2026-08-09 10:04",
    "frozen": false,
    "group": "Crypto",
+   "deployed": 687.8,
+   "pl": 40.2,
    "upl_unit_pct": 5.85,
    "value": 1071.9
   },
@@ -42,6 +72,8 @@
    "mark_when": "2026-08-09 10:04",
    "frozen": false,
    "group": "Crypto",
+   "deployed": 998.8,
+   "pl": 49.61,
    "upl_unit_pct": 4.97,
    "value": 1048.41
   },
@@ -56,6 +88,8 @@
    "mark_when": "2026-08-09 10:04",
    "frozen": false,
    "group": "Crypto",
+   "deployed": 998.8,
+   "pl": 32.92,
    "upl_unit_pct": 3.3,
    "value": 1031.72
   },
@@ -70,6 +104,8 @@
    "mark_when": "2026-08-09 10:05",
    "frozen": false,
    "group": "Crypto",
+   "deployed": 687.8,
+   "pl": 22.48,
    "upl_unit_pct": 3.27,
    "value": 1054.17
   },
@@ -84,6 +120,8 @@
    "mark_when": "2026-08-09 10:04",
    "frozen": false,
    "group": "Crypto",
+   "deployed": 998.8,
+   "pl": -10.45,
    "upl_unit_pct": -1.05,
    "value": 988.35
   }

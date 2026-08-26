@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26 09:05:14 UTC",
+ "generated": "2026-08-26 10:05:14 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1577.51,
   "realized_pct": 6.86,
   "at_risk": 10967.62,
-  "unrealized": 96.86,
-  "unrealized_pct": 0.88,
-  "total_value": 24674.37,
-  "total_pct": 7.28
+  "unrealized": 90.03,
+  "unrealized_pct": 0.82,
+  "total_value": 24667.54,
+  "total_pct": 7.25
  },
  "out_of_market": [
   {
@@ -96,14 +96,14 @@
    "sizing": 100.0,
    "opened": "2026-08-13 23:00",
    "avg_entry": 4413.200195,
-   "mark": 4683.200195,
-   "mark_when": "2026-08-26 08:54",
+   "mark": 4680.200195,
+   "mark_when": "2026-08-26 09:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 1000.0,
-   "pl": 122.36,
-   "upl_unit_pct": 12.24,
-   "value": 1122.36
+   "pl": 121.0,
+   "upl_unit_pct": 12.1,
+   "value": 1121.0
   },
   {
    "symbol": "Copper",
@@ -112,14 +112,14 @@
    "sizing": 100.0,
    "opened": "2026-08-13 23:00",
    "avg_entry": 6.588,
-   "mark": 6.828,
-   "mark_when": "2026-08-26 08:54",
+   "mark": 6.823,
+   "mark_when": "2026-08-26 09:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 1000.0,
-   "pl": 72.86,
-   "upl_unit_pct": 7.29,
-   "value": 1072.86
+   "pl": 71.34,
+   "upl_unit_pct": 7.13,
+   "value": 1071.34
   },
   {
    "symbol": "AUD/USD",
@@ -128,14 +128,14 @@
    "sizing": 100.0,
    "opened": "2026-08-14 00:00",
    "avg_entry": 0.706714,
-   "mark": 0.718288,
-   "mark_when": "2026-08-26 09:04",
+   "mark": 0.718442,
+   "mark_when": "2026-08-26 10:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 32.75,
-   "upl_unit_pct": 3.28,
-   "value": 1032.75
+   "pl": 33.19,
+   "upl_unit_pct": 3.32,
+   "value": 1033.19
   },
   {
    "symbol": "GBP/USD",
@@ -144,14 +144,14 @@
    "sizing": 100.0,
    "opened": "2026-08-14 00:00",
    "avg_entry": 1.349327,
-   "mark": 1.362788,
-   "mark_when": "2026-08-26 09:05",
+   "mark": 1.362528,
+   "mark_when": "2026-08-26 10:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 19.95,
-   "upl_unit_pct": 2.0,
-   "value": 1019.95
+   "pl": 19.57,
+   "upl_unit_pct": 1.96,
+   "value": 1019.57
   },
   {
    "symbol": "USD/JPY",
@@ -160,30 +160,14 @@
    "sizing": 100.0,
    "opened": "2026-08-20 16:00",
    "avg_entry": 158.889999,
-   "mark": 159.014999,
-   "mark_when": "2026-08-26 09:05",
+   "mark": 158.979996,
+   "mark_when": "2026-08-26 10:05",
    "frozen": false,
    "group": "FX",
    "deployed": 967.62,
-   "pl": 1.52,
-   "upl_unit_pct": 0.16,
-   "value": 969.14
-  },
-  {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-22 19:00",
-   "avg_entry": 698.419983,
-   "mark": 698.090027,
-   "mark_when": "2026-08-26 09:04",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1000.0,
-   "pl": -0.94,
-   "upl_unit_pct": -0.09,
-   "value": 999.06
+   "pl": 1.1,
+   "upl_unit_pct": 0.11,
+   "value": 968.71
   },
   {
    "symbol": "USD/CAD",
@@ -192,14 +176,30 @@
    "sizing": 100.0,
    "opened": "2026-08-14 00:00",
    "avg_entry": 1.39251,
-   "mark": 1.3864,
-   "mark_when": "2026-08-26 09:05",
+   "mark": 1.3862,
+   "mark_when": "2026-08-26 10:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -8.78,
-   "upl_unit_pct": -0.88,
-   "value": 991.22
+   "pl": -9.06,
+   "upl_unit_pct": -0.91,
+   "value": 990.94
+  },
+  {
+   "symbol": "BNB",
+   "ticker": "BNB-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-22 19:00",
+   "avg_entry": 698.419983,
+   "mark": 695.219971,
+   "mark_when": "2026-08-26 10:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1000.0,
+   "pl": -9.16,
+   "upl_unit_pct": -0.92,
+   "value": 990.84
   },
   {
    "symbol": "Dow",
@@ -218,6 +218,22 @@
    "value": 990.83
   },
   {
+   "symbol": "Crude WTI",
+   "ticker": "CL=F",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-13 23:00",
+   "avg_entry": 81.349998,
+   "mark": 80.040001,
+   "mark_when": "2026-08-26 09:55",
+   "frozen": false,
+   "group": "Energy",
+   "deployed": 1000.0,
+   "pl": -32.21,
+   "upl_unit_pct": -3.22,
+   "value": 967.79
+  },
+  {
    "symbol": "S&P 500",
    "ticker": "^GSPC",
    "side": "LONG",
@@ -232,22 +248,6 @@
    "pl": -33.52,
    "upl_unit_pct": -3.35,
    "value": 966.48
-  },
-  {
-   "symbol": "Crude WTI",
-   "ticker": "CL=F",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-13 23:00",
-   "avg_entry": 81.349998,
-   "mark": 79.839996,
-   "mark_when": "2026-08-26 08:55",
-   "frozen": false,
-   "group": "Energy",
-   "deployed": 1000.0,
-   "pl": -37.12,
-   "upl_unit_pct": -3.71,
-   "value": 962.88
   },
   {
    "symbol": "Nasdaq 100",

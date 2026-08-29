@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29 13:05:14 UTC",
+ "generated": "2026-08-29 14:05:15 UTC",
  "track": "ENH-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": -17.58,
   "realized_pct": -0.08,
   "at_risk": 10988.32,
-  "unrealized": -235.24,
-  "unrealized_pct": -2.14,
-  "total_value": 22747.18,
-  "total_pct": -1.1
+  "unrealized": -218.21,
+  "unrealized_pct": -1.99,
+  "total_value": 22764.21,
+  "total_pct": -1.03
  },
  "out_of_market": [
   {
@@ -29,23 +29,6 @@
   }
  ],
  "open_positions": [
-  {
-   "symbol": "Monero",
-   "ticker": "XMR-USD",
-   "side": "LONG",
-   "sizing": 33.3,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 462.662842,
-   "mark": 467.172394,
-   "mark_when": "2026-08-29 13:04",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 333.11,
-   "pl": 6.49,
-   "upl_unit_pct": 1.95,
-   "value": 1005.82
-  },
   {
    "symbol": "USD/JPY",
    "ticker": "USDJPY=X",
@@ -81,6 +64,23 @@
    "value": 1002.07
   },
   {
+   "symbol": "Monero",
+   "ticker": "XMR-USD",
+   "side": "LONG",
+   "sizing": 33.3,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 462.662842,
+   "mark": 464.15451,
+   "mark_when": "2026-08-29 14:04",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 333.11,
+   "pl": 2.15,
+   "upl_unit_pct": 0.64,
+   "value": 1001.47
+  },
+  {
    "symbol": "Crude WTI",
    "ticker": "CL=F",
    "side": "LONG",
@@ -98,6 +98,23 @@
    "value": 1001.04
   },
   {
+   "symbol": "Litecoin",
+   "ticker": "LTC-USD",
+   "side": "LONG",
+   "sizing": 66.7,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 48.878282,
+   "mark": 48.950001,
+   "mark_when": "2026-08-29 14:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 665.77,
+   "pl": 1.95,
+   "upl_unit_pct": 0.29,
+   "value": 1000.61
+  },
+  {
    "symbol": "Brent",
    "ticker": "BZ=F",
    "side": "LONG",
@@ -113,23 +130,6 @@
    "pl": -0.45,
    "upl_unit_pct": -0.14,
    "value": 999.15
-  },
-  {
-   "symbol": "Litecoin",
-   "ticker": "LTC-USD",
-   "side": "LONG",
-   "sizing": 66.7,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 48.878282,
-   "mark": 48.775002,
-   "mark_when": "2026-08-29 13:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 665.77,
-   "pl": -2.81,
-   "upl_unit_pct": -0.42,
-   "value": 995.84
   },
   {
    "symbol": "Dow",
@@ -251,23 +251,6 @@
    "value": 992.69
   },
   {
-   "symbol": "Ethereum",
-   "ticker": "ETH-USD",
-   "side": "LONG",
-   "sizing": 66.7,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 2465.8425,
-   "mark": 2434.120117,
-   "mark_when": "2026-08-29 13:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 665.77,
-   "pl": -17.13,
-   "upl_unit_pct": -2.57,
-   "value": 981.52
-  },
-  {
    "symbol": "XRP",
    "ticker": "XRP-USD",
    "side": "LONG",
@@ -275,14 +258,31 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.402425,
-   "mark": 1.3839,
-   "mark_when": "2026-08-29 13:05",
+   "mark": 1.3874,
+   "mark_when": "2026-08-29 14:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 997.98,
-   "pl": -26.37,
-   "upl_unit_pct": -2.64,
-   "value": 971.61
+   "pl": -21.38,
+   "upl_unit_pct": -2.14,
+   "value": 976.6
+  },
+  {
+   "symbol": "Ethereum",
+   "ticker": "ETH-USD",
+   "side": "LONG",
+   "sizing": 66.7,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 2465.8425,
+   "mark": 2436.199951,
+   "mark_when": "2026-08-29 14:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 665.77,
+   "pl": -16.01,
+   "upl_unit_pct": -2.4,
+   "value": 982.65
   },
   {
    "symbol": "Dogecoin",
@@ -292,14 +292,31 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 0.086073,
-   "mark": 0.08474,
-   "mark_when": "2026-08-29 13:05",
+   "mark": 0.08488,
+   "mark_when": "2026-08-29 14:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 998.25,
-   "pl": -30.93,
-   "upl_unit_pct": -3.1,
-   "value": 967.32
+   "pl": -27.68,
+   "upl_unit_pct": -2.77,
+   "value": 970.57
+  },
+  {
+   "symbol": "Bitcoin",
+   "ticker": "BTC-USD",
+   "side": "LONG",
+   "sizing": 66.7,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 79026.456094,
+   "mark": 77709.992188,
+   "mark_when": "2026-08-29 14:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 665.77,
+   "pl": -22.18,
+   "upl_unit_pct": -3.33,
+   "value": 976.47
   },
   {
    "symbol": "Silver",
@@ -336,21 +353,21 @@
    "value": 974.93
   },
   {
-   "symbol": "Bitcoin",
-   "ticker": "BTC-USD",
+   "symbol": "Solana",
+   "ticker": "SOL-USD",
    "side": "LONG",
    "sizing": 66.7,
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
-   "avg_entry": 79026.456094,
-   "mark": 77572.117188,
-   "mark_when": "2026-08-29 13:05",
+   "avg_entry": 105.811197,
+   "mark": 103.849998,
+   "mark_when": "2026-08-29 14:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 665.77,
-   "pl": -24.5,
-   "upl_unit_pct": -3.68,
-   "value": 974.15
+   "pl": -24.68,
+   "upl_unit_pct": -3.71,
+   "value": 973.97
   },
   {
    "symbol": "BNB",
@@ -360,31 +377,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 702.464398,
-   "mark": 688.140015,
-   "mark_when": "2026-08-29 13:05",
+   "mark": 688.75,
+   "mark_when": "2026-08-29 14:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 665.77,
-   "pl": -27.15,
-   "upl_unit_pct": -4.08,
-   "value": 971.5
-  },
-  {
-   "symbol": "Solana",
-   "ticker": "SOL-USD",
-   "side": "LONG",
-   "sizing": 66.7,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 105.811197,
-   "mark": 103.550003,
-   "mark_when": "2026-08-29 13:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 665.77,
-   "pl": -28.46,
-   "upl_unit_pct": -4.27,
-   "value": 970.2
+   "pl": -26.0,
+   "upl_unit_pct": -3.9,
+   "value": 972.66
   }
  ]
 }

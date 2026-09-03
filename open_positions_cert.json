@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02 23:05:14 UTC",
+ "generated": "2026-09-03 00:05:14 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1744.8,
   "realized_pct": 7.59,
   "at_risk": 9000.0,
-  "unrealized": -137.81,
-  "unrealized_pct": -1.53,
-  "total_value": 24606.99,
-  "total_pct": 6.99
+  "unrealized": -131.77,
+  "unrealized_pct": -1.46,
+  "total_value": 24613.03,
+  "total_pct": 7.01
  },
  "out_of_market": [
   {
@@ -109,14 +109,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 0.706714,
-   "mark": 0.717,
-   "mark_when": "2026-09-02 23:04",
+   "mark": 0.716486,
+   "mark_when": "2026-09-03 00:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 29.11,
-   "upl_unit_pct": 2.91,
-   "value": 1029.11
+   "pl": 27.66,
+   "upl_unit_pct": 2.77,
+   "value": 1027.66
   },
   {
    "symbol": "Gold",
@@ -126,14 +126,14 @@
    "opened": "2026-08-13 23:00",
    "committed": 1000.0,
    "avg_entry": 4413.200195,
-   "mark": 4429.899902,
-   "mark_when": "2026-09-02 22:55",
+   "mark": 4430.299805,
+   "mark_when": "2026-09-02 23:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 1000.0,
-   "pl": 7.57,
-   "upl_unit_pct": 0.76,
-   "value": 1007.57
+   "pl": 7.75,
+   "upl_unit_pct": 0.77,
+   "value": 1007.75
   },
   {
    "symbol": "Copper",
@@ -143,14 +143,14 @@
    "opened": "2026-08-13 23:00",
    "committed": 1000.0,
    "avg_entry": 6.588,
-   "mark": 6.6045,
-   "mark_when": "2026-09-02 22:50",
+   "mark": 6.605,
+   "mark_when": "2026-09-02 23:52",
    "frozen": false,
    "group": "Metals",
    "deployed": 1000.0,
-   "pl": 5.01,
-   "upl_unit_pct": 0.5,
-   "value": 1005.01
+   "pl": 5.16,
+   "upl_unit_pct": 0.52,
+   "value": 1005.16
   },
   {
    "symbol": "GBP/USD",
@@ -160,14 +160,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.349327,
-   "mark": 1.348399,
-   "mark_when": "2026-09-02 23:04",
+   "mark": 1.348272,
+   "mark_when": "2026-09-03 00:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -1.38,
-   "upl_unit_pct": -0.14,
-   "value": 998.62
+   "pl": -1.56,
+   "upl_unit_pct": -0.16,
+   "value": 998.44
   },
   {
    "symbol": "USD/CAD",
@@ -177,14 +177,31 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.39251,
-   "mark": 1.38441,
-   "mark_when": "2026-09-02 23:05",
+   "mark": 1.38422,
+   "mark_when": "2026-09-03 00:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -11.63,
-   "upl_unit_pct": -1.16,
-   "value": 988.37
+   "pl": -11.91,
+   "upl_unit_pct": -1.19,
+   "value": 988.09
+  },
+  {
+   "symbol": "BNB",
+   "ticker": "BNB-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-22 19:00",
+   "committed": 1000.0,
+   "avg_entry": 698.419983,
+   "mark": 689.039978,
+   "mark_when": "2026-09-03 00:04",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1000.0,
+   "pl": -26.86,
+   "upl_unit_pct": -2.69,
+   "value": 973.14
   },
   {
    "symbol": "Dow",
@@ -196,29 +213,12 @@
    "avg_entry": 53824.289062,
    "mark": 53061.949219,
    "mark_when": "2026-09-02 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 1000.0,
    "pl": -28.33,
    "upl_unit_pct": -2.83,
    "value": 971.67
-  },
-  {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-22 19:00",
-   "committed": 1000.0,
-   "avg_entry": 698.419983,
-   "mark": 686.380005,
-   "mark_when": "2026-09-02 23:04",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1000.0,
-   "pl": -34.48,
-   "upl_unit_pct": -3.45,
-   "value": 965.52
   },
   {
    "symbol": "S&P 500",
@@ -230,7 +230,7 @@
    "avg_entry": 7808.149902,
    "mark": 7666.600098,
    "mark_when": "2026-09-02 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 1000.0,
    "pl": -36.26,
@@ -247,7 +247,7 @@
    "avg_entry": 30160.082031,
    "mark": 29143.330078,
    "mark_when": "2026-09-02 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 1000.0,
    "pl": -67.42,

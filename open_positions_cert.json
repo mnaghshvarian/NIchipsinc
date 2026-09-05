@@ -1,24 +1,30 @@
 {
- "generated": "2026-09-05 12:05:13 UTC",
+ "generated": "2026-09-05 13:05:14 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
   "accounts": 23,
   "initial_capital": 23000.0,
-  "capital_after_closed": 24685.39,
-  "realized": 1685.39,
-  "realized_pct": 7.33,
-  "at_risk": 10101.79,
-  "unrealized": 169.02,
-  "unrealized_pct": 1.67,
-  "total_value": 24854.41,
-  "total_pct": 8.06
+  "capital_after_closed": 24870.89,
+  "realized": 1870.89,
+  "realized_pct": 8.13,
+  "at_risk": 9101.79,
+  "unrealized": 18.62,
+  "unrealized_pct": 0.2,
+  "total_value": 24889.51,
+  "total_pct": 8.22
  },
  "out_of_market": [
   {
    "ticker": "BTC-USD",
    "symbol": "Bitcoin",
    "capital": 1162.93,
+   "exhausted": false
+  },
+  {
+   "ticker": "BNB-USD",
+   "symbol": "BNB",
+   "capital": 1185.51,
    "exhausted": false
   },
   {
@@ -95,23 +101,6 @@
   }
  ],
  "open_positions": [
-  {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-22 19:00",
-   "committed": 1000.0,
-   "avg_entry": 698.419983,
-   "mark": 750.940002,
-   "mark_when": "2026-09-05 12:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1000.0,
-   "pl": 150.4,
-   "upl_unit_pct": 15.04,
-   "value": 1150.4
-  },
   {
    "symbol": "AUD/USD",
    "ticker": "AUDUSD=X",

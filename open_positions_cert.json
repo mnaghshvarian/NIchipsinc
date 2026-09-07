@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07 11:05:13 UTC",
+ "generated": "2026-09-07 12:05:14 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1870.89,
   "realized_pct": 8.13,
   "at_risk": 9101.79,
-  "unrealized": 24.08,
-  "unrealized_pct": 0.26,
-  "total_value": 24894.97,
-  "total_pct": 8.24
+  "unrealized": 22.65,
+  "unrealized_pct": 0.25,
+  "total_value": 24893.54,
+  "total_pct": 8.23
  },
  "out_of_market": [
   {
@@ -109,14 +109,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 0.706714,
-   "mark": 0.72197,
-   "mark_when": "2026-09-07 11:04",
+   "mark": 0.721657,
+   "mark_when": "2026-09-07 12:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 43.17,
-   "upl_unit_pct": 4.32,
-   "value": 1043.17
+   "pl": 42.29,
+   "upl_unit_pct": 4.23,
+   "value": 1042.29
   },
   {
    "symbol": "Gold",
@@ -177,14 +177,31 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.349327,
-   "mark": 1.353858,
-   "mark_when": "2026-09-07 11:04",
+   "mark": 1.353088,
+   "mark_when": "2026-09-07 12:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 6.72,
-   "upl_unit_pct": 0.67,
-   "value": 1006.72
+   "pl": 5.57,
+   "upl_unit_pct": 0.56,
+   "value": 1005.57
+  },
+  {
+   "symbol": "USD/CAD",
+   "ticker": "USDCAD=X",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-14 00:00",
+   "committed": 1000.0,
+   "avg_entry": 1.39251,
+   "mark": 1.38206,
+   "mark_when": "2026-09-07 12:05",
+   "frozen": false,
+   "group": "FX",
+   "deployed": 1000.0,
+   "pl": -15.01,
+   "upl_unit_pct": -1.5,
+   "value": 984.99
   },
   {
    "symbol": "Dow",
@@ -202,23 +219,6 @@
    "pl": -15.24,
    "upl_unit_pct": -1.52,
    "value": 984.76
-  },
-  {
-   "symbol": "USD/CAD",
-   "ticker": "USDCAD=X",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-14 00:00",
-   "committed": 1000.0,
-   "avg_entry": 1.39251,
-   "mark": 1.38164,
-   "mark_when": "2026-09-07 11:05",
-   "frozen": false,
-   "group": "FX",
-   "deployed": 1000.0,
-   "pl": -15.61,
-   "upl_unit_pct": -1.56,
-   "value": 984.39
   },
   {
    "symbol": "S&P 500",

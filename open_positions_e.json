@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09 06:05:14 UTC",
+ "generated": "2026-09-09 07:05:13 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 500.41,
   "realized_pct": 2.18,
   "at_risk": 12926.52,
-  "unrealized": -185.56,
-  "unrealized_pct": -1.44,
-  "total_value": 23314.85,
-  "total_pct": 1.37
+  "unrealized": -142.23,
+  "unrealized_pct": -1.1,
+  "total_value": 23358.18,
+  "total_pct": 1.56
  },
  "out_of_market": [
   {
@@ -85,14 +85,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 0.08783,
-   "mark": 0.09002,
-   "mark_when": "2026-09-09 06:05",
+   "mark": 0.09052,
+   "mark_when": "2026-09-09 07:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 990.18,
-   "pl": 49.38,
-   "upl_unit_pct": 4.99,
-   "value": 1039.56
+   "pl": 60.65,
+   "upl_unit_pct": 6.13,
+   "value": 1050.83
   },
   {
    "symbol": "Copper",
@@ -102,31 +102,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 6.6925,
-   "mark": 6.7715,
-   "mark_when": "2026-09-09 05:54",
+   "mark": 6.786,
+   "mark_when": "2026-09-09 06:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 995.08,
-   "pl": 23.49,
-   "upl_unit_pct": 2.36,
-   "value": 1018.57
-  },
-  {
-   "symbol": "AUD/USD",
-   "ticker": "AUDUSD=X",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 0.720305,
-   "mark": 0.723589,
-   "mark_when": "2026-09-09 06:04",
-   "frozen": false,
-   "group": "FX",
-   "deployed": 998.03,
-   "pl": 9.1,
-   "upl_unit_pct": 0.91,
-   "value": 1007.13
+   "pl": 27.8,
+   "upl_unit_pct": 2.79,
+   "value": 1022.88
   },
   {
    "symbol": "Ethereum",
@@ -136,31 +119,31 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 2490.75,
-   "mark": 2493.570068,
-   "mark_when": "2026-09-09 06:04",
+   "mark": 2503.48999,
+   "mark_when": "2026-09-09 07:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 990.18,
-   "pl": 2.24,
-   "upl_unit_pct": 0.23,
-   "value": 992.42
+   "pl": 10.13,
+   "upl_unit_pct": 1.02,
+   "value": 1000.31
   },
   {
-   "symbol": "GBP/USD",
-   "ticker": "GBPUSD=X",
+   "symbol": "AUD/USD",
+   "ticker": "AUDUSD=X",
    "side": "LONG",
    "sizing": 100.0,
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
-   "avg_entry": 1.358936,
-   "mark": 1.355675,
-   "mark_when": "2026-09-09 06:04",
+   "avg_entry": 0.720305,
+   "mark": 0.723537,
+   "mark_when": "2026-09-09 07:04",
    "frozen": false,
    "group": "FX",
    "deployed": 998.03,
-   "pl": -4.79,
-   "upl_unit_pct": -0.48,
-   "value": 993.24
+   "pl": 8.95,
+   "upl_unit_pct": 0.9,
+   "value": 1006.98
   },
   {
    "symbol": "XRP",
@@ -170,14 +153,31 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.4312,
-   "mark": 1.4276,
-   "mark_when": "2026-09-09 06:05",
+   "mark": 1.4362,
+   "mark_when": "2026-09-09 07:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 990.18,
-   "pl": -4.98,
-   "upl_unit_pct": -0.5,
-   "value": 985.2
+   "pl": 6.92,
+   "upl_unit_pct": 0.7,
+   "value": 997.1
+  },
+  {
+   "symbol": "GBP/USD",
+   "ticker": "GBPUSD=X",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 1.358936,
+   "mark": 1.356006,
+   "mark_when": "2026-09-09 07:04",
+   "frozen": false,
+   "group": "FX",
+   "deployed": 998.03,
+   "pl": -4.3,
+   "upl_unit_pct": -0.43,
+   "value": 993.73
   },
   {
    "symbol": "USD/CAD",
@@ -187,14 +187,31 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.38506,
-   "mark": 1.3769,
-   "mark_when": "2026-09-09 06:05",
+   "mark": 1.37697,
+   "mark_when": "2026-09-09 07:05",
    "frozen": false,
    "group": "FX",
    "deployed": 998.03,
-   "pl": -11.76,
-   "upl_unit_pct": -1.18,
-   "value": 986.27
+   "pl": -11.66,
+   "upl_unit_pct": -1.17,
+   "value": 986.37
+  },
+  {
+   "symbol": "Bitcoin",
+   "ticker": "BTC-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 79824.703125,
+   "mark": 79193.101562,
+   "mark_when": "2026-09-09 07:04",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 990.18,
+   "pl": -15.67,
+   "upl_unit_pct": -1.58,
+   "value": 974.51
   },
   {
    "symbol": "Nasdaq 100",
@@ -212,23 +229,6 @@
    "pl": -15.68,
    "upl_unit_pct": -1.58,
    "value": 979.81
-  },
-  {
-   "symbol": "Bitcoin",
-   "ticker": "BTC-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 79824.703125,
-   "mark": 78871.242188,
-   "mark_when": "2026-09-09 06:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 990.18,
-   "pl": -23.65,
-   "upl_unit_pct": -2.39,
-   "value": 966.53
   },
   {
    "symbol": "S&P 500",
@@ -272,14 +272,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 69.654999,
-   "mark": 67.32,
-   "mark_when": "2026-09-09 05:54",
+   "mark": 67.294998,
+   "mark_when": "2026-09-09 06:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 995.08,
-   "pl": -66.71,
-   "upl_unit_pct": -6.7,
-   "value": 928.36
+   "pl": -67.43,
+   "upl_unit_pct": -6.78,
+   "value": 927.65
   },
   {
    "symbol": "Gold",
@@ -289,14 +289,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 4634.0,
-   "mark": 4443.299805,
-   "mark_when": "2026-09-09 05:55",
+   "mark": 4443.899902,
+   "mark_when": "2026-09-09 06:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 995.08,
-   "pl": -81.9,
-   "upl_unit_pct": -8.23,
-   "value": 913.18
+   "pl": -81.64,
+   "upl_unit_pct": -8.2,
+   "value": 913.44
   }
  ]
 }

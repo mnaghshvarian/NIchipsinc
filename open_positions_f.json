@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13 01:05:14 UTC",
+ "generated": "2026-09-13 02:05:14 UTC",
  "track": "ENH-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 73.1,
   "realized_pct": 0.32,
   "at_risk": 10655.81,
-  "unrealized": 48.95,
-  "unrealized_pct": 0.46,
-  "total_value": 23122.05,
-  "total_pct": 0.53
+  "unrealized": 55.81,
+  "unrealized_pct": 0.52,
+  "total_value": 23128.91,
+  "total_pct": 0.56
  },
  "out_of_market": [
   {
@@ -89,14 +89,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 462.662842,
-   "mark": 540.314819,
-   "mark_when": "2026-09-13 01:03",
+   "mark": 543.361755,
+   "mark_when": "2026-09-13 02:03",
    "frozen": false,
    "group": "Crypto",
    "deployed": 169.05,
-   "pl": 56.75,
-   "upl_unit_pct": 33.57,
-   "value": 1071.07
+   "pl": 58.97,
+   "upl_unit_pct": 34.88,
+   "value": 1073.29
   },
   {
    "symbol": "Litecoin",
@@ -106,14 +106,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 48.878282,
-   "mark": 53.786999,
-   "mark_when": "2026-09-13 01:05",
+   "mark": 53.810001,
+   "mark_when": "2026-09-13 02:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 341.97,
-   "pl": 68.69,
-   "upl_unit_pct": 20.09,
-   "value": 1094.59
+   "pl": 69.01,
+   "upl_unit_pct": 20.18,
+   "value": 1094.91
   },
   {
    "symbol": "BNB",
@@ -123,14 +123,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 694.679594,
-   "mark": 728.130005,
-   "mark_when": "2026-09-13 01:05",
+   "mark": 728.090027,
+   "mark_when": "2026-09-13 02:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 525.83,
-   "pl": 50.64,
-   "upl_unit_pct": 9.63,
-   "value": 1102.31
+   "pl": 50.58,
+   "upl_unit_pct": 9.62,
+   "value": 1102.25
   },
   {
    "symbol": "Ethereum",
@@ -140,14 +140,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 2435.565003,
-   "mark": 2523.52002,
-   "mark_when": "2026-09-13 01:04",
+   "mark": 2524.219971,
+   "mark_when": "2026-09-13 02:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 533.11,
-   "pl": 38.5,
-   "upl_unit_pct": 7.22,
-   "value": 1104.73
+   "pl": 38.81,
+   "upl_unit_pct": 7.28,
+   "value": 1105.04
   },
   {
    "symbol": "USD/CAD",
@@ -235,6 +235,23 @@
    "value": 995.87
   },
   {
+   "symbol": "Dogecoin",
+   "ticker": "DOGE-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 0.085807,
+   "mark": 0.08493,
+   "mark_when": "2026-09-13 02:04",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1084.35,
+   "pl": -22.16,
+   "upl_unit_pct": -2.04,
+   "value": 1062.19
+  },
+  {
    "symbol": "Copper",
    "ticker": "HG=F",
    "side": "LONG",
@@ -252,21 +269,21 @@
    "value": 982.18
   },
   {
-   "symbol": "Dogecoin",
-   "ticker": "DOGE-USD",
+   "symbol": "Bitcoin",
+   "ticker": "BTC-USD",
    "side": "LONG",
    "sizing": 100.0,
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
-   "avg_entry": 0.085807,
-   "mark": 0.08483,
-   "mark_when": "2026-09-13 01:05",
+   "avg_entry": 78228.209062,
+   "mark": 77277.25,
+   "mark_when": "2026-09-13 02:04",
    "frozen": false,
    "group": "Crypto",
-   "deployed": 1084.35,
-   "pl": -24.69,
-   "upl_unit_pct": -2.28,
-   "value": 1059.66
+   "deployed": 987.1,
+   "pl": -24.0,
+   "upl_unit_pct": -2.43,
+   "value": 963.1
   },
   {
    "symbol": "Dow",
@@ -286,23 +303,6 @@
    "value": 980.8
   },
   {
-   "symbol": "Bitcoin",
-   "ticker": "BTC-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 78228.209062,
-   "mark": 77239.8125,
-   "mark_when": "2026-09-13 01:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 987.1,
-   "pl": -24.94,
-   "upl_unit_pct": -2.53,
-   "value": 962.15
-  },
-  {
    "symbol": "XRP",
    "ticker": "XRP-USD",
    "side": "LONG",
@@ -310,14 +310,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.395663,
-   "mark": 1.3668,
-   "mark_when": "2026-09-13 01:05",
+   "mark": 1.3672,
+   "mark_when": "2026-09-13 02:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1034.25,
-   "pl": -42.78,
-   "upl_unit_pct": -4.14,
-   "value": 991.47
+   "pl": -42.18,
+   "upl_unit_pct": -4.08,
+   "value": 992.06
   },
   {
    "symbol": "Gold",

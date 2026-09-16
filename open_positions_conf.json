@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16 15:05:14 UTC",
+ "generated": "2026-09-16 16:05:14 UTC",
  "track": "ENH-CONF",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 738.11,
   "realized_pct": 3.21,
   "at_risk": 6999.39,
-  "unrealized": 479.87,
-  "unrealized_pct": 6.86,
-  "total_value": 24217.98,
-  "total_pct": 5.3
+  "unrealized": 468.57,
+  "unrealized_pct": 6.69,
+  "total_value": 24206.68,
+  "total_pct": 5.25
  },
  "out_of_market": [
   {
@@ -48,23 +48,6 @@
  ],
  "open_positions": [
   {
-   "symbol": "Crude WTI",
-   "ticker": "CL=F",
-   "side": "LONG",
-   "sizing": 16.7,
-   "opened": "2026-08-14 00:00",
-   "committed": 1000.0,
-   "avg_entry": 81.080002,
-   "mark": 103.010002,
-   "mark_when": "2026-09-16 14:55",
-   "frozen": false,
-   "group": "Energy",
-   "deployed": 172.19,
-   "pl": 93.14,
-   "upl_unit_pct": 54.09,
-   "value": 1126.25
-  },
-  {
    "symbol": "Ethereum",
    "ticker": "ETH-USD",
    "side": "LONG",
@@ -72,14 +55,31 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 1887.040039,
-   "mark": 2389.830078,
-   "mark_when": "2026-09-16 15:04",
+   "mark": 2392.860107,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 169.34,
-   "pl": 90.24,
-   "upl_unit_pct": 53.29,
-   "value": 1106.3
+   "pl": 90.78,
+   "upl_unit_pct": 53.61,
+   "value": 1106.84
+  },
+  {
+   "symbol": "Crude WTI",
+   "ticker": "CL=F",
+   "side": "LONG",
+   "sizing": 16.7,
+   "opened": "2026-08-14 00:00",
+   "committed": 1000.0,
+   "avg_entry": 81.080002,
+   "mark": 102.0,
+   "mark_when": "2026-09-16 15:55",
+   "frozen": false,
+   "group": "Energy",
+   "deployed": 172.19,
+   "pl": 88.85,
+   "upl_unit_pct": 51.6,
+   "value": 1121.96
   },
   {
    "symbol": "Monero",
@@ -89,14 +89,14 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 395.144684,
-   "mark": 489.786438,
-   "mark_when": "2026-09-16 15:04",
+   "mark": 491.279816,
+   "mark_when": "2026-09-16 16:03",
    "frozen": false,
    "group": "Crypto",
    "deployed": 169.6,
-   "pl": 81.24,
-   "upl_unit_pct": 47.9,
-   "value": 1098.87
+   "pl": 82.53,
+   "upl_unit_pct": 48.66,
+   "value": 1100.15
   },
   {
    "symbol": "Brent",
@@ -106,14 +106,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 86.050798,
-   "mark": 106.330002,
-   "mark_when": "2026-09-16 14:55",
+   "mark": 105.160004,
+   "mark_when": "2026-09-16 15:54",
    "frozen": false,
    "group": "Energy",
    "deployed": 349.7,
-   "pl": 164.83,
-   "upl_unit_pct": 47.13,
-   "value": 1213.93
+   "pl": 155.32,
+   "upl_unit_pct": 44.41,
+   "value": 1204.42
   },
   {
    "symbol": "Bitcoin",
@@ -123,14 +123,14 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 63508.25,
-   "mark": 75649.96875,
-   "mark_when": "2026-09-16 15:05",
+   "mark": 75722.023438,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 171.01,
-   "pl": 65.39,
-   "upl_unit_pct": 38.24,
-   "value": 1091.44
+   "pl": 65.78,
+   "upl_unit_pct": 38.46,
+   "value": 1091.83
   },
   {
    "symbol": "Dogecoin",
@@ -140,14 +140,14 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 0.07017,
-   "mark": 0.07901,
-   "mark_when": "2026-09-16 15:04",
+   "mark": 0.07905,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 169.74,
-   "pl": 42.77,
-   "upl_unit_pct": 25.2,
-   "value": 1061.21
+   "pl": 42.96,
+   "upl_unit_pct": 25.31,
+   "value": 1061.4
   },
   {
    "symbol": "Litecoin",
@@ -157,14 +157,14 @@
    "opened": "2026-08-21 02:00",
    "committed": 1000.0,
    "avg_entry": 48.370998,
-   "mark": 50.351002,
-   "mark_when": "2026-09-16 15:05",
+   "mark": 50.472,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 171.91,
-   "pl": 14.07,
-   "upl_unit_pct": 8.19,
-   "value": 1045.55
+   "pl": 14.93,
+   "upl_unit_pct": 8.69,
+   "value": 1046.41
   },
   {
    "symbol": "BNB",
@@ -174,14 +174,14 @@
    "opened": "2026-08-22 20:00",
    "committed": 1000.0,
    "avg_entry": 689.725006,
-   "mark": 710.320007,
-   "mark_when": "2026-09-16 15:04",
+   "mark": 711.119995,
+   "mark_when": "2026-09-16 16:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 345.26,
-   "pl": 20.62,
-   "upl_unit_pct": 5.97,
-   "value": 1056.38
+   "pl": 21.42,
+   "upl_unit_pct": 6.2,
+   "value": 1057.19
   },
   {
    "symbol": "Silver",
@@ -191,14 +191,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 63.681747,
-   "mark": 64.980003,
-   "mark_when": "2026-09-16 14:55",
+   "mark": 65.105003,
+   "mark_when": "2026-09-16 15:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 687.8,
-   "pl": 28.04,
-   "upl_unit_pct": 4.08,
-   "value": 1059.74
+   "pl": 30.74,
+   "upl_unit_pct": 4.47,
+   "value": 1062.44
   },
   {
    "symbol": "AUD/USD",
@@ -208,14 +208,14 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 0.706314,
-   "mark": 0.713419,
-   "mark_when": "2026-09-16 15:03",
+   "mark": 0.713267,
+   "mark_when": "2026-09-16 16:03",
    "frozen": false,
    "group": "FX",
    "deployed": 333.2,
-   "pl": 6.7,
-   "upl_unit_pct": 2.01,
-   "value": 1006.3
+   "pl": 6.56,
+   "upl_unit_pct": 1.97,
+   "value": 1006.16
   },
   {
    "symbol": "Gold",
@@ -225,14 +225,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 4351.644097,
-   "mark": 4390.399902,
-   "mark_when": "2026-09-16 14:55",
+   "mark": 4393.700195,
+   "mark_when": "2026-09-16 15:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 676.97,
-   "pl": 12.06,
-   "upl_unit_pct": 1.78,
-   "value": 1027.51
+   "pl": 13.08,
+   "upl_unit_pct": 1.93,
+   "value": 1028.54
   },
   {
    "symbol": "USD/CAD",
@@ -242,31 +242,14 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 1.39246,
-   "mark": 1.3933,
-   "mark_when": "2026-09-16 15:05",
+   "mark": 1.3932,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "FX",
    "deployed": 333.2,
-   "pl": 0.4,
-   "upl_unit_pct": 0.12,
-   "value": 1000.0
-  },
-  {
-   "symbol": "NatGas",
-   "ticker": "NG=F",
-   "side": "LONG",
-   "sizing": 33.3,
-   "opened": "2026-09-16 09:00",
-   "committed": 1000.0,
-   "avg_entry": 2.927,
-   "mark": 2.918,
-   "mark_when": "2026-09-16 14:55",
-   "frozen": false,
-   "group": "Energy",
-   "deployed": 333.2,
-   "pl": -2.05,
-   "upl_unit_pct": -0.61,
-   "value": 997.55
+   "pl": 0.35,
+   "upl_unit_pct": 0.11,
+   "value": 999.95
   },
   {
    "symbol": "GBP/USD",
@@ -276,14 +259,31 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 1.349655,
-   "mark": 1.345116,
-   "mark_when": "2026-09-16 15:04",
+   "mark": 1.344429,
+   "mark_when": "2026-09-16 16:04",
    "frozen": false,
    "group": "FX",
    "deployed": 333.2,
-   "pl": -2.24,
-   "upl_unit_pct": -0.67,
-   "value": 997.36
+   "pl": -2.58,
+   "upl_unit_pct": -0.77,
+   "value": 997.02
+  },
+  {
+   "symbol": "NatGas",
+   "ticker": "NG=F",
+   "side": "LONG",
+   "sizing": 33.3,
+   "opened": "2026-09-16 09:00",
+   "committed": 1000.0,
+   "avg_entry": 2.927,
+   "mark": 2.904,
+   "mark_when": "2026-09-16 15:55",
+   "frozen": false,
+   "group": "Energy",
+   "deployed": 333.2,
+   "pl": -5.24,
+   "upl_unit_pct": -1.57,
+   "value": 994.36
   },
   {
    "symbol": "S&P 500",
@@ -293,14 +293,14 @@
    "opened": "2026-08-14 14:30",
    "committed": 1000.0,
    "avg_entry": 7712.990903,
-   "mark": 7616.040039,
-   "mark_when": "2026-09-16 15:05",
+   "mark": 7615.009766,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "Indices",
    "deployed": 666.13,
-   "pl": -16.75,
-   "upl_unit_pct": -2.51,
-   "value": 982.45
+   "pl": -16.92,
+   "upl_unit_pct": -2.54,
+   "value": 982.28
   },
   {
    "symbol": "Nasdaq 100",
@@ -310,14 +310,14 @@
    "opened": "2026-08-14 14:30",
    "committed": 1000.0,
    "avg_entry": 29724.848613,
-   "mark": 29189.041016,
-   "mark_when": "2026-09-16 15:05",
+   "mark": 29172.630859,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "Indices",
    "deployed": 666.13,
-   "pl": -24.01,
-   "upl_unit_pct": -3.61,
-   "value": 975.19
+   "pl": -24.75,
+   "upl_unit_pct": -3.72,
+   "value": 974.45
   },
   {
    "symbol": "Dow",
@@ -327,14 +327,14 @@
    "opened": "2026-08-14 14:30",
    "committed": 1000.0,
    "avg_entry": 53231.182383,
-   "mark": 52100.921875,
-   "mark_when": "2026-09-16 15:05",
+   "mark": 52112.53125,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "Indices",
    "deployed": 666.13,
-   "pl": -28.29,
-   "upl_unit_pct": -4.25,
-   "value": 970.91
+   "pl": -28.0,
+   "upl_unit_pct": -4.2,
+   "value": 971.2
   },
   {
    "symbol": "XRP",
@@ -344,14 +344,14 @@
    "opened": "2026-08-21 21:00",
    "committed": 1000.0,
    "avg_entry": 1.343667,
-   "mark": 1.2675,
-   "mark_when": "2026-09-16 15:04",
+   "mark": 1.2664,
+   "mark_when": "2026-09-16 16:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 584.68,
-   "pl": -66.29,
-   "upl_unit_pct": -11.34,
-   "value": 1103.07
+   "pl": -67.24,
+   "upl_unit_pct": -11.5,
+   "value": 1102.12
   }
  ]
 }

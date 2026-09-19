@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18 23:05:13 UTC",
+ "generated": "2026-09-19 00:05:14 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1801.76,
   "realized_pct": 7.83,
   "at_risk": 10133.02,
-  "unrealized": -136.97,
-  "unrealized_pct": -1.35,
-  "total_value": 24664.79,
-  "total_pct": 7.24
+  "unrealized": -150.28,
+  "unrealized_pct": -1.48,
+  "total_value": 24651.48,
+  "total_pct": 7.18
  },
  "out_of_market": [
   {
@@ -164,23 +164,6 @@
    "value": 1001.22
   },
   {
-   "symbol": "Solana",
-   "ticker": "SOL-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-09-18 22:00",
-   "committed": 1000.0,
-   "avg_entry": 113.260002,
-   "mark": 113.199997,
-   "mark_when": "2026-09-18 23:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1159.32,
-   "pl": -1.23,
-   "upl_unit_pct": -0.11,
-   "value": 1158.1
-  },
-  {
    "symbol": "NatGas",
    "ticker": "NG=F",
    "side": "LONG",
@@ -196,6 +179,23 @@
    "pl": -2.76,
    "upl_unit_pct": -0.28,
    "value": 997.24
+  },
+  {
+   "symbol": "Solana",
+   "ticker": "SOL-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-09-18 22:00",
+   "committed": 1000.0,
+   "avg_entry": 113.260002,
+   "mark": 112.550003,
+   "mark_when": "2026-09-19 00:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1159.32,
+   "pl": -14.54,
+   "upl_unit_pct": -1.25,
+   "value": 1144.79
   },
   {
    "symbol": "GBP/USD",
@@ -224,7 +224,7 @@
    "avg_entry": 30160.082031,
    "mark": 29644.167969,
    "mark_when": "2026-09-18 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 1000.0,
    "pl": -34.21,
@@ -241,7 +241,7 @@
    "avg_entry": 7808.149902,
    "mark": 7650.5,
    "mark_when": "2026-09-18 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 1000.0,
    "pl": -40.38,
@@ -258,7 +258,7 @@
    "avg_entry": 53824.289062,
    "mark": 51682.640625,
    "mark_when": "2026-09-18 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 1000.0,
    "pl": -79.58,

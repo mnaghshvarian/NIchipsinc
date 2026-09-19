@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19 02:05:14 UTC",
+ "generated": "2026-09-19 03:05:13 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 277.03,
   "realized_pct": 1.2,
   "at_risk": 14716.71,
-  "unrealized": -215.99,
-  "unrealized_pct": -1.47,
-  "total_value": 23061.04,
-  "total_pct": 0.27
+  "unrealized": -181.67,
+  "unrealized_pct": -1.23,
+  "total_value": 23095.36,
+  "total_pct": 0.41
  },
  "out_of_market": [
   {
@@ -73,14 +73,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 2490.75,
-   "mark": 2612.889893,
-   "mark_when": "2026-09-19 02:04",
+   "mark": 2630.570068,
+   "mark_when": "2026-09-19 03:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 982.07,
-   "pl": 96.32,
-   "upl_unit_pct": 9.81,
-   "value": 1078.39
+   "pl": 110.26,
+   "upl_unit_pct": 11.23,
+   "value": 1092.33
   },
   {
    "symbol": "Bitcoin",
@@ -90,14 +90,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 79824.703125,
-   "mark": 81246.328125,
-   "mark_when": "2026-09-19 02:05",
+   "mark": 81367.890625,
+   "mark_when": "2026-09-19 03:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 982.07,
-   "pl": 34.98,
-   "upl_unit_pct": 3.56,
-   "value": 1017.05
+   "pl": 37.97,
+   "upl_unit_pct": 3.87,
+   "value": 1020.04
   },
   {
    "symbol": "USD/CAD",
@@ -117,6 +117,40 @@
    "value": 1015.46
   },
   {
+   "symbol": "Dogecoin",
+   "ticker": "DOGE-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 0.08783,
+   "mark": 0.08837,
+   "mark_when": "2026-09-19 03:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 982.07,
+   "pl": 12.08,
+   "upl_unit_pct": 1.23,
+   "value": 994.15
+  },
+  {
+   "symbol": "Solana",
+   "ticker": "SOL-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-09-18 23:00",
+   "committed": 1000.0,
+   "avg_entry": 113.209999,
+   "mark": 113.760002,
+   "mark_when": "2026-09-19 03:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 856.95,
+   "pl": 8.33,
+   "upl_unit_pct": 0.97,
+   "value": 865.28
+  },
+  {
    "symbol": "USD/JPY",
    "ticker": "USDJPY=X",
    "side": "LONG",
@@ -132,40 +166,6 @@
    "pl": 8.69,
    "upl_unit_pct": 0.87,
    "value": 1002.14
-  },
-  {
-   "symbol": "Dogecoin",
-   "ticker": "DOGE-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 0.08783,
-   "mark": 0.0881,
-   "mark_when": "2026-09-19 02:04",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 982.07,
-   "pl": 6.04,
-   "upl_unit_pct": 0.61,
-   "value": 988.11
-  },
-  {
-   "symbol": "Solana",
-   "ticker": "SOL-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-09-18 23:00",
-   "committed": 1000.0,
-   "avg_entry": 113.209999,
-   "mark": 113.400002,
-   "mark_when": "2026-09-19 02:04",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 856.95,
-   "pl": 2.88,
-   "upl_unit_pct": 0.34,
-   "value": 859.83
   },
   {
    "symbol": "Nasdaq 100",
@@ -202,6 +202,23 @@
    "value": 972.41
   },
   {
+   "symbol": "XRP",
+   "ticker": "XRP-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 1.4312,
+   "mark": 1.417,
+   "mark_when": "2026-09-19 03:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 982.07,
+   "pl": -19.49,
+   "upl_unit_pct": -1.98,
+   "value": 962.59
+  },
+  {
    "symbol": "AUD/USD",
    "ticker": "AUDUSD=X",
    "side": "LONG",
@@ -217,23 +234,6 @@
    "pl": -22.57,
    "upl_unit_pct": -2.26,
    "value": 973.99
-  },
-  {
-   "symbol": "XRP",
-   "ticker": "XRP-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 1.4312,
-   "mark": 1.4127,
-   "mark_when": "2026-09-19 02:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 982.07,
-   "pl": -25.39,
-   "upl_unit_pct": -2.59,
-   "value": 956.68
   },
   {
    "symbol": "GBP/USD",

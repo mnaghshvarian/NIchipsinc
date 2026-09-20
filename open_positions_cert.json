@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20 16:05:14 UTC",
+ "generated": "2026-09-20 17:05:14 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1801.76,
   "realized_pct": 7.83,
   "at_risk": 10133.02,
-  "unrealized": -231.55,
-  "unrealized_pct": -2.29,
-  "total_value": 24570.21,
-  "total_pct": 6.83
+  "unrealized": -196.34,
+  "unrealized_pct": -1.94,
+  "total_value": 24605.42,
+  "total_pct": 6.98
  },
  "out_of_market": [
   {
@@ -232,6 +232,23 @@
    "value": 959.62
   },
   {
+   "symbol": "Solana",
+   "ticker": "SOL-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-09-18 22:00",
+   "committed": 1000.0,
+   "avg_entry": 113.260002,
+   "mark": 110.300003,
+   "mark_when": "2026-09-20 17:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1159.32,
+   "pl": -60.6,
+   "upl_unit_pct": -5.23,
+   "value": 1098.73
+  },
+  {
    "symbol": "Dow",
    "ticker": "^DJI",
    "side": "LONG",
@@ -247,23 +264,6 @@
    "pl": -79.58,
    "upl_unit_pct": -7.96,
    "value": 920.42
-  },
-  {
-   "symbol": "Solana",
-   "ticker": "SOL-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-09-18 22:00",
-   "committed": 1000.0,
-   "avg_entry": 113.260002,
-   "mark": 108.580002,
-   "mark_when": "2026-09-20 16:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1159.32,
-   "pl": -95.81,
-   "upl_unit_pct": -8.26,
-   "value": 1063.52
   }
  ]
 }

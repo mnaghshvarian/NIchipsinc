@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23 12:05:14 UTC",
+ "generated": "2026-09-23 13:05:13 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1927.37,
   "realized_pct": 8.38,
   "at_risk": 10077.33,
-  "unrealized": 1.43,
-  "unrealized_pct": 0.01,
-  "total_value": 24928.8,
-  "total_pct": 8.39
+  "unrealized": -7.03,
+  "unrealized_pct": -0.07,
+  "total_value": 24920.34,
+  "total_pct": 8.35
  },
  "out_of_market": [
   {
@@ -103,14 +103,14 @@
    "opened": "2026-09-18 22:00",
    "committed": 1000.0,
    "avg_entry": 113.260002,
-   "mark": 116.720001,
-   "mark_when": "2026-09-23 12:05",
+   "mark": 116.620003,
+   "mark_when": "2026-09-23 13:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1159.32,
-   "pl": 70.83,
-   "upl_unit_pct": 6.11,
-   "value": 1230.16
+   "pl": 68.79,
+   "upl_unit_pct": 5.93,
+   "value": 1228.11
   },
   {
    "symbol": "Nasdaq 100",
@@ -137,14 +137,14 @@
    "opened": "2026-09-17 00:00",
    "committed": 1000.0,
    "avg_entry": 155.957001,
-   "mark": 157.921997,
-   "mark_when": "2026-09-23 12:05",
+   "mark": 157.912994,
+   "mark_when": "2026-09-23 13:05",
    "frozen": false,
    "group": "FX",
    "deployed": 973.7,
-   "pl": 24.54,
-   "upl_unit_pct": 2.52,
-   "value": 998.24
+   "pl": 24.42,
+   "upl_unit_pct": 2.51,
+   "value": 998.13
   },
   {
    "symbol": "USD/CAD",
@@ -154,14 +154,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.39251,
-   "mark": 1.40906,
-   "mark_when": "2026-09-23 12:05",
+   "mark": 1.40865,
+   "mark_when": "2026-09-23 13:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 23.77,
-   "upl_unit_pct": 2.38,
-   "value": 1023.77
+   "pl": 23.18,
+   "upl_unit_pct": 2.32,
+   "value": 1023.18
   },
   {
    "symbol": "AUD/USD",
@@ -171,31 +171,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 0.706714,
-   "mark": 0.707214,
-   "mark_when": "2026-09-23 12:04",
+   "mark": 0.706564,
+   "mark_when": "2026-09-23 13:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 1.41,
-   "upl_unit_pct": 0.14,
-   "value": 1001.41
-  },
-  {
-   "symbol": "Copper",
-   "ticker": "HG=F",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-09-22 16:00",
-   "committed": 1000.0,
-   "avg_entry": 6.837,
-   "mark": 6.799,
-   "mark_when": "2026-09-23 11:55",
-   "frozen": false,
-   "group": "Metals",
-   "deployed": 944.31,
-   "pl": -10.5,
-   "upl_unit_pct": -1.11,
-   "value": 933.81
+   "pl": -0.42,
+   "upl_unit_pct": -0.04,
+   "value": 999.58
   },
   {
    "symbol": "S&P 500",
@@ -215,21 +198,21 @@
    "value": 988.86
   },
   {
-   "symbol": "Gold",
-   "ticker": "GC=F",
+   "symbol": "Copper",
+   "ticker": "HG=F",
    "side": "LONG",
    "sizing": 100.0,
-   "opened": "2026-08-13 23:00",
+   "opened": "2026-09-22 16:00",
    "committed": 1000.0,
-   "avg_entry": 4413.200195,
-   "mark": 4345.899902,
-   "mark_when": "2026-09-23 11:55",
+   "avg_entry": 6.837,
+   "mark": 6.795,
+   "mark_when": "2026-09-23 12:54",
    "frozen": false,
    "group": "Metals",
-   "deployed": 1000.0,
-   "pl": -30.5,
-   "upl_unit_pct": -3.05,
-   "value": 969.5
+   "deployed": 944.31,
+   "pl": -11.6,
+   "upl_unit_pct": -1.23,
+   "value": 932.71
   },
   {
    "symbol": "GBP/USD",
@@ -239,14 +222,31 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.349327,
-   "mark": 1.327686,
-   "mark_when": "2026-09-23 12:05",
+   "mark": 1.327669,
+   "mark_when": "2026-09-23 13:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -32.08,
+   "pl": -32.1,
    "upl_unit_pct": -3.21,
-   "value": 967.92
+   "value": 967.9
+  },
+  {
+   "symbol": "Gold",
+   "ticker": "GC=F",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-13 23:00",
+   "committed": 1000.0,
+   "avg_entry": 4413.200195,
+   "mark": 4339.799805,
+   "mark_when": "2026-09-23 12:54",
+   "frozen": false,
+   "group": "Metals",
+   "deployed": 1000.0,
+   "pl": -33.26,
+   "upl_unit_pct": -3.33,
+   "value": 966.74
   },
   {
    "symbol": "Dow",

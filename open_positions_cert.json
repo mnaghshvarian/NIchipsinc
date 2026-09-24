@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24 07:05:14 UTC",
+ "generated": "2026-09-24 08:05:13 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1927.37,
   "realized_pct": 8.38,
   "at_risk": 10077.33,
-  "unrealized": -124.12,
-  "unrealized_pct": -1.23,
-  "total_value": 24803.25,
-  "total_pct": 7.84
+  "unrealized": -90.46,
+  "unrealized_pct": -0.9,
+  "total_value": 24836.91,
+  "total_pct": 7.99
  },
  "out_of_market": [
   {
@@ -96,6 +96,23 @@
  ],
  "open_positions": [
   {
+   "symbol": "Solana",
+   "ticker": "SOL-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-09-18 22:00",
+   "committed": 1000.0,
+   "avg_entry": 113.260002,
+   "mark": 115.489998,
+   "mark_when": "2026-09-24 08:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1159.32,
+   "pl": 45.65,
+   "upl_unit_pct": 3.94,
+   "value": 1204.98
+  },
+  {
    "symbol": "USD/JPY",
    "ticker": "USDJPY=X",
    "side": "LONG",
@@ -103,14 +120,14 @@
    "opened": "2026-09-17 00:00",
    "committed": 1000.0,
    "avg_entry": 155.957001,
-   "mark": 158.440002,
-   "mark_when": "2026-09-24 07:05",
+   "mark": 158.169006,
+   "mark_when": "2026-09-24 08:05",
    "frozen": false,
    "group": "FX",
    "deployed": 973.7,
-   "pl": 31.0,
-   "upl_unit_pct": 3.18,
-   "value": 1004.71
+   "pl": 27.62,
+   "upl_unit_pct": 2.84,
+   "value": 1001.33
   },
   {
    "symbol": "USD/CAD",
@@ -120,31 +137,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.39251,
-   "mark": 1.41024,
-   "mark_when": "2026-09-24 07:05",
+   "mark": 1.40996,
+   "mark_when": "2026-09-24 08:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 25.46,
-   "upl_unit_pct": 2.55,
-   "value": 1025.46
-  },
-  {
-   "symbol": "Solana",
-   "ticker": "SOL-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-09-18 22:00",
-   "committed": 1000.0,
-   "avg_entry": 113.260002,
-   "mark": 114.5,
-   "mark_when": "2026-09-24 07:03",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1159.32,
-   "pl": 25.39,
-   "upl_unit_pct": 2.19,
-   "value": 1184.71
+   "pl": 25.06,
+   "upl_unit_pct": 2.51,
+   "value": 1025.06
   },
   {
    "symbol": "Nasdaq 100",
@@ -171,14 +171,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 0.706714,
-   "mark": 0.703779,
-   "mark_when": "2026-09-24 07:04",
+   "mark": 0.704622,
+   "mark_when": "2026-09-24 08:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -8.3,
-   "upl_unit_pct": -0.83,
-   "value": 991.7
+   "pl": -5.92,
+   "upl_unit_pct": -0.59,
+   "value": 994.08
   },
   {
    "symbol": "Copper",
@@ -188,14 +188,14 @@
    "opened": "2026-09-22 16:00",
    "committed": 1000.0,
    "avg_entry": 6.837,
-   "mark": 6.7515,
-   "mark_when": "2026-09-24 06:55",
+   "mark": 6.79,
+   "mark_when": "2026-09-24 07:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 944.31,
-   "pl": -23.62,
-   "upl_unit_pct": -2.5,
-   "value": 920.69
+   "pl": -12.98,
+   "upl_unit_pct": -1.37,
+   "value": 931.32
   },
   {
    "symbol": "S&P 500",
@@ -222,14 +222,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.349327,
-   "mark": 1.324591,
-   "mark_when": "2026-09-24 07:04",
+   "mark": 1.325539,
+   "mark_when": "2026-09-24 08:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -36.66,
-   "upl_unit_pct": -3.67,
-   "value": 963.34
+   "pl": -35.26,
+   "upl_unit_pct": -3.53,
+   "value": 964.74
   },
   {
    "symbol": "Gold",
@@ -239,14 +239,14 @@
    "opened": "2026-08-13 23:00",
    "committed": 1000.0,
    "avg_entry": 4413.200195,
-   "mark": 4312.0,
-   "mark_when": "2026-09-24 06:55",
+   "mark": 4318.100098,
+   "mark_when": "2026-09-24 07:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 1000.0,
-   "pl": -45.86,
-   "upl_unit_pct": -4.59,
-   "value": 954.14
+   "pl": -43.1,
+   "upl_unit_pct": -4.31,
+   "value": 956.9
   },
   {
    "symbol": "Dow",

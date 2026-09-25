@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25 12:05:14 UTC",
+ "generated": "2026-09-25 13:05:13 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1927.37,
   "realized_pct": 8.38,
   "at_risk": 10077.33,
-  "unrealized": 15.79,
-  "unrealized_pct": 0.16,
-  "total_value": 24943.16,
-  "total_pct": 8.45
+  "unrealized": 0.84,
+  "unrealized_pct": 0.01,
+  "total_value": 24928.21,
+  "total_pct": 8.38
  },
  "out_of_market": [
   {
@@ -103,14 +103,14 @@
    "opened": "2026-09-18 22:00",
    "committed": 1000.0,
    "avg_entry": 113.260002,
-   "mark": 120.919998,
-   "mark_when": "2026-09-25 12:05",
+   "mark": 120.669998,
+   "mark_when": "2026-09-25 13:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1159.32,
-   "pl": 156.81,
-   "upl_unit_pct": 13.53,
-   "value": 1316.14
+   "pl": 151.7,
+   "upl_unit_pct": 13.08,
+   "value": 1311.02
   },
   {
    "symbol": "USD/CAD",
@@ -120,14 +120,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.39251,
-   "mark": 1.41469,
-   "mark_when": "2026-09-25 12:05",
+   "mark": 1.414,
+   "mark_when": "2026-09-25 13:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": 31.86,
-   "upl_unit_pct": 3.19,
-   "value": 1031.86
+   "pl": 30.87,
+   "upl_unit_pct": 3.09,
+   "value": 1030.87
   },
   {
    "symbol": "Nasdaq 100",
@@ -154,14 +154,14 @@
    "opened": "2026-09-17 00:00",
    "committed": 1000.0,
    "avg_entry": 155.957001,
-   "mark": 157.585007,
-   "mark_when": "2026-09-25 12:05",
+   "mark": 157.447998,
+   "mark_when": "2026-09-25 13:05",
    "frozen": false,
    "group": "FX",
    "deployed": 973.7,
-   "pl": 20.33,
-   "upl_unit_pct": 2.09,
-   "value": 994.03
+   "pl": 18.62,
+   "upl_unit_pct": 1.91,
+   "value": 992.32
   },
   {
    "symbol": "AUD/USD",
@@ -171,14 +171,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 0.706714,
-   "mark": 0.703383,
-   "mark_when": "2026-09-25 12:04",
+   "mark": 0.702642,
+   "mark_when": "2026-09-25 13:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -9.43,
-   "upl_unit_pct": -0.94,
-   "value": 990.57
+   "pl": -11.52,
+   "upl_unit_pct": -1.15,
+   "value": 988.48
   },
   {
    "symbol": "Copper",
@@ -188,14 +188,14 @@
    "opened": "2026-09-22 16:00",
    "committed": 1000.0,
    "avg_entry": 6.837,
-   "mark": 6.775,
-   "mark_when": "2026-09-25 11:54",
+   "mark": 6.7625,
+   "mark_when": "2026-09-25 12:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 944.31,
-   "pl": -17.13,
-   "upl_unit_pct": -1.81,
-   "value": 927.18
+   "pl": -20.58,
+   "upl_unit_pct": -2.18,
+   "value": 923.73
   },
   {
    "symbol": "S&P 500",
@@ -215,23 +215,6 @@
    "value": 973.36
   },
   {
-   "symbol": "Gold",
-   "ticker": "GC=F",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-13 23:00",
-   "committed": 1000.0,
-   "avg_entry": 4413.200195,
-   "mark": 4339.5,
-   "mark_when": "2026-09-25 11:54",
-   "frozen": false,
-   "group": "Metals",
-   "deployed": 1000.0,
-   "pl": -33.4,
-   "upl_unit_pct": -3.34,
-   "value": 966.6
-  },
-  {
    "symbol": "GBP/USD",
    "ticker": "GBPUSD=X",
    "side": "LONG",
@@ -239,14 +222,31 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.349327,
-   "mark": 1.32517,
-   "mark_when": "2026-09-25 12:05",
+   "mark": 1.325557,
+   "mark_when": "2026-09-25 13:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -35.81,
-   "upl_unit_pct": -3.58,
-   "value": 964.19
+   "pl": -35.23,
+   "upl_unit_pct": -3.52,
+   "value": 964.77
+  },
+  {
+   "symbol": "Gold",
+   "ticker": "GC=F",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-13 23:00",
+   "committed": 1000.0,
+   "avg_entry": 4413.200195,
+   "mark": 4334.700195,
+   "mark_when": "2026-09-25 12:54",
+   "frozen": false,
+   "group": "Metals",
+   "deployed": 1000.0,
+   "pl": -35.58,
+   "upl_unit_pct": -3.56,
+   "value": 964.42
   },
   {
    "symbol": "Dow",

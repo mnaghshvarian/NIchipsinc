@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05 02:05:14 UTC",
+ "generated": "2026-10-05 03:05:13 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1164.15,
   "realized_pct": 5.06,
   "at_risk": 9796.25,
-  "unrealized": -550.04,
-  "unrealized_pct": -5.61,
-  "total_value": 23614.11,
-  "total_pct": 2.67
+  "unrealized": -579.44,
+  "unrealized_pct": -5.91,
+  "total_value": 23584.71,
+  "total_pct": 2.54
  },
  "out_of_market": [
   {
@@ -120,14 +120,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.38506,
-   "mark": 1.4266,
-   "mark_when": "2026-10-05 02:05",
+   "mark": 1.42872,
+   "mark_when": "2026-10-05 03:05",
    "frozen": false,
    "group": "FX",
    "deployed": 993.77,
-   "pl": 59.61,
-   "upl_unit_pct": 6.0,
-   "value": 1053.38
+   "pl": 62.65,
+   "upl_unit_pct": 6.3,
+   "value": 1056.42
   },
   {
    "symbol": "USD/JPY",
@@ -137,14 +137,14 @@
    "opened": "2026-09-17 01:00",
    "committed": 1000.0,
    "avg_entry": 156.171997,
-   "mark": 157.565994,
-   "mark_when": "2026-10-05 02:05",
+   "mark": 157.975998,
+   "mark_when": "2026-10-05 03:05",
    "frozen": false,
    "group": "FX",
    "deployed": 990.67,
-   "pl": 17.69,
-   "upl_unit_pct": 1.79,
-   "value": 1008.36
+   "pl": 22.89,
+   "upl_unit_pct": 2.31,
+   "value": 1013.56
   },
   {
    "symbol": "S&P 500",
@@ -171,31 +171,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.358936,
-   "mark": 1.323557,
-   "mark_when": "2026-10-05 02:04",
+   "mark": 1.319749,
+   "mark_when": "2026-10-05 03:04",
    "frozen": false,
    "group": "FX",
    "deployed": 993.77,
-   "pl": -51.74,
-   "upl_unit_pct": -5.21,
-   "value": 942.03
-  },
-  {
-   "symbol": "Copper",
-   "ticker": "HG=F",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-09-22 17:00",
-   "committed": 1000.0,
-   "avg_entry": 6.8535,
-   "mark": 6.633,
-   "mark_when": "2026-10-05 01:54",
-   "frozen": false,
-   "group": "Metals",
-   "deployed": 898.14,
-   "pl": -57.79,
-   "upl_unit_pct": -6.43,
-   "value": 840.35
+   "pl": -57.31,
+   "upl_unit_pct": -5.77,
+   "value": 936.46
   },
   {
    "symbol": "AUD/USD",
@@ -205,14 +188,31 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 0.720305,
-   "mark": 0.695217,
-   "mark_when": "2026-10-05 02:04",
+   "mark": 0.693674,
+   "mark_when": "2026-10-05 03:04",
    "frozen": false,
    "group": "FX",
    "deployed": 993.77,
-   "pl": -69.23,
-   "upl_unit_pct": -6.97,
-   "value": 924.55
+   "pl": -73.49,
+   "upl_unit_pct": -7.39,
+   "value": 920.29
+  },
+  {
+   "symbol": "Copper",
+   "ticker": "HG=F",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-09-22 17:00",
+   "committed": 1000.0,
+   "avg_entry": 6.8535,
+   "mark": 6.5875,
+   "mark_when": "2026-10-05 02:55",
+   "frozen": false,
+   "group": "Metals",
+   "deployed": 898.14,
+   "pl": -69.72,
+   "upl_unit_pct": -7.76,
+   "value": 828.42
   },
   {
    "symbol": "Dow",
@@ -239,14 +239,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 4634.0,
-   "mark": 4187.200195,
-   "mark_when": "2026-10-05 01:55",
+   "mark": 4172.100098,
+   "mark_when": "2026-10-05 02:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 984.5,
-   "pl": -189.85,
-   "upl_unit_pct": -19.28,
-   "value": 794.65
+   "pl": -196.26,
+   "upl_unit_pct": -19.94,
+   "value": 788.24
   },
   {
    "symbol": "Silver",
@@ -256,14 +256,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 69.654999,
-   "mark": 61.759998,
-   "mark_when": "2026-10-05 01:54",
+   "mark": 61.424999,
+   "mark_when": "2026-10-05 02:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 984.5,
-   "pl": -223.17,
-   "upl_unit_pct": -22.67,
-   "value": 761.32
+   "pl": -232.64,
+   "upl_unit_pct": -23.63,
+   "value": 751.86
   }
  ]
 }

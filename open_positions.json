@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-17 11:05:15 UTC",
+ "generated": "2026-10-17 12:05:13 UTC",
  "started": "2026-07-15 20:00",
- "days_running": 93.6,
+ "days_running": 93.7,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 17962.52,
-  "value_now": 19823.28,
-  "unrealized": 1860.76,
-  "unrealized_pct": 10.36,
+  "value_now": 19831.78,
+  "unrealized": 1869.26,
+  "unrealized_pct": 10.41,
   "open_positions": 17,
   "up": 9,
   "down": 8,
@@ -16,8 +16,8 @@
   "capital_after_closed": 25190.55,
   "realized": 2190.55,
   "realized_pct": 9.52,
-  "total_value": 27051.31,
-  "total_pct": 17.61
+  "total_value": 27059.81,
+  "total_pct": 17.65
  },
  "out_of_market": [
   {
@@ -83,13 +83,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1921.719970703125,
-   "mark": 2436.280029296875,
-   "mark_when": "2026-10-17 11:05",
+   "mark": 2430.580078125,
+   "mark_when": "2026-10-17 12:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": 53.55,
+   "upl_pct": 52.96,
    "capital": 1000.0,
-   "equity_now": 1535.52,
+   "equity_now": 1529.59,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -100,13 +100,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 64904.3984375,
-   "mark": 81533.296875,
-   "mark_when": "2026-10-17 11:04",
+   "mark": 81473.8828125,
+   "mark_when": "2026-10-17 12:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 51.24,
+   "upl_pct": 51.06,
    "capital": 1000.0,
-   "equity_now": 1512.41,
+   "equity_now": 1510.58,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -213,6 +213,23 @@
   },
   {
    "n": 10,
+   "symbol": "Monero",
+   "ticker": "XMR-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 560.0852661132812,
+   "mark": 556.0021362304688,
+   "mark_when": "2026-10-17 12:02",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -1.46,
+   "capital": 2364.42,
+   "equity_now": 2329.94,
+   "opened": "2026-10-17 08:04"
+  },
+  {
+   "n": 11,
    "symbol": "AUD/USD",
    "ticker": "AUDUSD=X",
    "side": "LONG",
@@ -229,7 +246,7 @@
    "opened": "2026-07-15 20:15"
   },
   {
-   "n": 11,
+   "n": 12,
    "symbol": "Nasdaq 100",
    "ticker": "^NDX",
    "side": "LONG",
@@ -244,23 +261,6 @@
    "capital": 1000.0,
    "equity_now": 978.64,
    "opened": "2026-07-15 20:00"
-  },
-  {
-   "n": 12,
-   "symbol": "Monero",
-   "ticker": "XMR-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 560.0852661132812,
-   "mark": 553.5733032226562,
-   "mark_when": "2026-10-17 11:03",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -2.33,
-   "capital": 2364.42,
-   "equity_now": 2309.43,
-   "opened": "2026-10-17 08:04"
   },
   {
    "n": 13,
@@ -338,13 +338,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1.3665000200271606,
-   "mark": 1.3071999549865723,
-   "mark_when": "2026-10-17 11:05",
+   "mark": 1.3042999505996704,
+   "mark_when": "2026-10-17 12:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -8.68,
+   "upl_pct": -9.1,
    "capital": 1000.0,
-   "equity_now": 913.21,
+   "equity_now": 908.96,
    "opened": "2026-08-21 19:05"
   }
  ]

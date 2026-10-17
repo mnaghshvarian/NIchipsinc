@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17 21:05:18 UTC",
+ "generated": "2026-10-17 22:05:14 UTC",
  "track": "ENH-CROSS",
  "started": "2026-08-12 22:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 938.74,
   "realized_pct": 4.08,
   "at_risk": 10960.55,
-  "unrealized": 584.6,
-  "unrealized_pct": 5.33,
-  "total_value": 24523.34,
-  "total_pct": 6.62
+  "unrealized": 553.25,
+  "unrealized_pct": 5.05,
+  "total_value": 24491.99,
+  "total_pct": 6.49
  },
  "out_of_market": [
   {
@@ -54,23 +54,6 @@
  ],
  "open_positions": [
   {
-   "symbol": "Ethereum",
-   "ticker": "ETH-USD",
-   "side": "LONG",
-   "sizing": 16.7,
-   "opened": "2026-08-12 23:00",
-   "committed": 2000.0,
-   "avg_entry": 1875.689941,
-   "mark": 2421.52002,
-   "mark_when": "2026-10-17 21:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 333.33,
-   "pl": 194.0,
-   "upl_unit_pct": 58.2,
-   "value": 1226.71
-  },
-  {
    "symbol": "Bitcoin",
    "ticker": "BTC-USD",
    "side": "LONG",
@@ -78,14 +61,31 @@
    "opened": "2026-08-12 23:00",
    "committed": 4000.0,
    "avg_entry": 63332.339844,
-   "mark": 81586.773438,
-   "mark_when": "2026-10-17 21:05",
+   "mark": 81085.867188,
+   "mark_when": "2026-10-17 22:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 666.67,
-   "pl": 384.31,
-   "upl_unit_pct": 57.65,
-   "value": 1492.56
+   "pl": 373.76,
+   "upl_unit_pct": 56.06,
+   "value": 1482.02
+  },
+  {
+   "symbol": "Ethereum",
+   "ticker": "ETH-USD",
+   "side": "LONG",
+   "sizing": 16.7,
+   "opened": "2026-08-12 23:00",
+   "committed": 2000.0,
+   "avg_entry": 1875.689941,
+   "mark": 2381.330078,
+   "mark_when": "2026-10-17 22:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 333.33,
+   "pl": 179.72,
+   "upl_unit_pct": 53.92,
+   "value": 1212.43
   },
   {
    "symbol": "Brent",
@@ -139,23 +139,6 @@
    "value": 1060.3
   },
   {
-   "symbol": "Monero",
-   "ticker": "XMR-USD",
-   "side": "LONG",
-   "sizing": 66.7,
-   "opened": "2026-10-17 08:00",
-   "committed": 709.2,
-   "avg_entry": 554.312286,
-   "mark": 563.097168,
-   "mark_when": "2026-10-17 21:03",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 472.8,
-   "pl": 14.99,
-   "upl_unit_pct": 3.17,
-   "value": 1172.45
-  },
-  {
    "symbol": "USD/CAD",
    "ticker": "USDCAD=X",
    "side": "LONG",
@@ -188,6 +171,23 @@
    "pl": 2.63,
    "upl_unit_pct": 2.6,
    "value": 995.87
+  },
+  {
+   "symbol": "Monero",
+   "ticker": "XMR-USD",
+   "side": "LONG",
+   "sizing": 66.7,
+   "opened": "2026-10-17 08:00",
+   "committed": 709.2,
+   "avg_entry": 554.312286,
+   "mark": 561.396851,
+   "mark_when": "2026-10-17 22:03",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 472.8,
+   "pl": 12.09,
+   "upl_unit_pct": 2.56,
+   "value": 1169.55
   },
   {
    "symbol": "GBP/USD",
@@ -299,14 +299,14 @@
    "opened": "2026-08-21 20:00",
    "committed": 279.52,
    "avg_entry": 1.343414,
-   "mark": 1.3045,
-   "mark_when": "2026-10-17 21:05",
+   "mark": 1.2871,
+   "mark_when": "2026-10-17 22:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 139.76,
-   "pl": -8.1,
-   "upl_unit_pct": -5.79,
-   "value": 1037.17
+   "pl": -11.72,
+   "upl_unit_pct": -8.38,
+   "value": 1033.55
   },
   {
    "symbol": "Gold",
@@ -352,8 +352,8 @@
   },
   "Crypto": {
    "cash": 8536.61,
-   "unreal": 585.2,
-   "value": 9121.81,
+   "unreal": 553.85,
+   "value": 9090.46,
    "symbols": 8
   },
   "Energy": {

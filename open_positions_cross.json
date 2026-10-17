@@ -1,20 +1,26 @@
 {
- "generated": "2026-10-17 18:05:23 UTC",
+ "generated": "2026-10-17 19:05:13 UTC",
  "track": "ENH-CROSS",
  "started": "2026-08-12 22:00",
  "portfolio": {
   "accounts": 23,
   "initial_capital": 23000.0,
-  "capital_after_closed": 23939.28,
-  "realized": 939.28,
+  "capital_after_closed": 23938.74,
+  "realized": 938.74,
   "realized_pct": 4.08,
-  "at_risk": 11307.9,
-  "unrealized": 566.67,
-  "unrealized_pct": 5.01,
-  "total_value": 24505.95,
-  "total_pct": 6.55
+  "at_risk": 10960.55,
+  "unrealized": 571.48,
+  "unrealized_pct": 5.21,
+  "total_value": 24510.22,
+  "total_pct": 6.57
  },
  "out_of_market": [
+  {
+   "ticker": "BNB-USD",
+   "symbol": "BNB",
+   "capital": 1009.17,
+   "exhausted": false
+  },
   {
    "ticker": "DOGE-USD",
    "symbol": "Dogecoin",
@@ -55,14 +61,14 @@
    "opened": "2026-08-12 23:00",
    "committed": 2000.0,
    "avg_entry": 1875.689941,
-   "mark": 2412.959961,
-   "mark_when": "2026-10-17 18:05",
+   "mark": 2412.679932,
+   "mark_when": "2026-10-17 19:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 333.33,
-   "pl": 190.96,
-   "upl_unit_pct": 57.29,
-   "value": 1223.67
+   "pl": 190.86,
+   "upl_unit_pct": 57.26,
+   "value": 1223.57
   },
   {
    "symbol": "Bitcoin",
@@ -72,14 +78,14 @@
    "opened": "2026-08-12 23:00",
    "committed": 4000.0,
    "avg_entry": 63332.339844,
-   "mark": 81391.296875,
-   "mark_when": "2026-10-17 18:05",
+   "mark": 81388.398438,
+   "mark_when": "2026-10-17 19:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 666.67,
-   "pl": 380.19,
-   "upl_unit_pct": 57.03,
-   "value": 1488.45
+   "pl": 380.13,
+   "upl_unit_pct": 57.02,
+   "value": 1488.39
   },
   {
    "symbol": "Brent",
@@ -174,31 +180,14 @@
    "opened": "2026-10-17 08:00",
    "committed": 709.2,
    "avg_entry": 554.312286,
-   "mark": 558.003845,
-   "mark_when": "2026-10-17 18:01",
+   "mark": 560.647339,
+   "mark_when": "2026-10-17 19:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 472.8,
-   "pl": 6.3,
-   "upl_unit_pct": 1.33,
-   "value": 1163.76
-  },
-  {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 33.3,
-   "opened": "2026-10-17 18:00",
-   "committed": 1042.06,
-   "avg_entry": 715.130005,
-   "mark": 715.130005,
-   "mark_when": "2026-10-17 18:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 347.35,
-   "pl": 0.0,
-   "upl_unit_pct": 0.0,
-   "value": 1009.7
+   "pl": 10.81,
+   "upl_unit_pct": 2.29,
+   "value": 1168.27
   },
   {
    "symbol": "GBP/USD",
@@ -310,14 +299,14 @@
    "opened": "2026-08-21 20:00",
    "committed": 279.52,
    "avg_entry": 1.343414,
-   "mark": 1.2945,
-   "mark_when": "2026-10-17 18:05",
+   "mark": 1.2967,
+   "mark_when": "2026-10-17 19:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 139.76,
-   "pl": -10.18,
-   "upl_unit_pct": -7.28,
-   "value": 1035.09
+   "pl": -9.72,
+   "upl_unit_pct": -6.95,
+   "value": 1035.55
   },
   {
    "symbol": "Gold",
@@ -362,9 +351,9 @@
    "symbols": 5
   },
   "Crypto": {
-   "cash": 8537.14,
-   "unreal": 567.27,
-   "value": 9104.42,
+   "cash": 8536.61,
+   "unreal": 572.08,
+   "value": 9108.69,
    "symbols": 8
   },
   "Energy": {

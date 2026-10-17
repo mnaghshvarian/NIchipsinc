@@ -1,24 +1,30 @@
 {
- "generated": "2026-10-17 18:05:23 UTC",
+ "generated": "2026-10-17 19:05:13 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
   "accounts": 23,
   "initial_capital": 23000.0,
-  "capital_after_closed": 25142.32,
-  "realized": 2142.32,
+  "capital_after_closed": 25140.52,
+  "realized": 2140.52,
   "realized_pct": 9.31,
-  "at_risk": 11265.97,
-  "unrealized": -359.62,
-  "unrealized_pct": -3.19,
-  "total_value": 24782.7,
-  "total_pct": 7.75
+  "at_risk": 10091.97,
+  "unrealized": -348.54,
+  "unrealized_pct": -3.45,
+  "total_value": 24791.98,
+  "total_pct": 7.79
  },
  "out_of_market": [
   {
    "ticker": "BTC-USD",
    "symbol": "Bitcoin",
    "capital": 1162.93,
+   "exhausted": false
+  },
+  {
+   "ticker": "BNB-USD",
+   "symbol": "BNB",
+   "capital": 1172.19,
    "exhausted": false
   },
   {
@@ -124,23 +130,6 @@
    "value": 999.05
   },
   {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-10-17 18:00",
-   "committed": 1000.0,
-   "avg_entry": 715.130005,
-   "mark": 715.130005,
-   "mark_when": "2026-10-17 18:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1174.0,
-   "pl": 0.0,
-   "upl_unit_pct": 0.0,
-   "value": 1174.0
-  },
-  {
    "symbol": "Monero",
    "ticker": "XMR-USD",
    "side": "LONG",
@@ -148,14 +137,14 @@
    "opened": "2026-10-17 08:00",
    "committed": 1000.0,
    "avg_entry": 560.137268,
-   "mark": 558.003845,
-   "mark_when": "2026-10-17 18:01",
+   "mark": 560.647339,
+   "mark_when": "2026-10-17 19:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1173.96,
-   "pl": -8.94,
-   "upl_unit_pct": -0.76,
-   "value": 1165.02
+   "pl": 2.14,
+   "upl_unit_pct": 0.18,
+   "value": 1176.1
   },
   {
    "symbol": "GBP/USD",

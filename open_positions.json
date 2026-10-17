@@ -1,25 +1,31 @@
 {
- "generated": "2026-10-17 18:05:23 UTC",
+ "generated": "2026-10-17 19:05:13 UTC",
  "started": "2026-07-15 20:00",
- "days_running": 93.9,
+ "days_running": 94.0,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
-  "deployed": 16625.37,
-  "value_now": 18493.89,
-  "unrealized": 1868.52,
-  "unrealized_pct": 11.24,
+  "deployed": 17942.1,
+  "value_now": 19813.46,
+  "unrealized": 1871.36,
+  "unrealized_pct": 10.43,
   "open_positions": 17,
   "up": 9,
   "down": 7,
   "accounts": 23,
   "initial_capital": 23000.0,
-  "capital_after_closed": 25170.14,
-  "realized": 2170.14,
-  "realized_pct": 9.44,
-  "total_value": 27038.66,
+  "capital_after_closed": 25167.12,
+  "realized": 2167.12,
+  "realized_pct": 9.42,
+  "total_value": 27038.48,
   "total_pct": 17.56
  },
  "out_of_market": [
+  {
+   "ticker": "BNB-USD",
+   "tf": "1h",
+   "symbol": "BNB",
+   "capital": 1024.26
+  },
   {
    "ticker": "DOGE-USD",
    "tf": "1h",
@@ -37,12 +43,6 @@
    "tf": "1h",
    "symbol": "Litecoin",
    "capital": 1339.76
-  },
-  {
-   "ticker": "XMR-USD",
-   "tf": "1h",
-   "symbol": "Monero",
-   "capital": 2344.0
   },
   {
    "ticker": "PL=F",
@@ -83,13 +83,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1921.719970703125,
-   "mark": 2412.9599609375,
-   "mark_when": "2026-10-17 18:05",
+   "mark": 2412.679931640625,
+   "mark_when": "2026-10-17 19:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 51.13,
+   "upl_pct": 51.1,
    "capital": 1000.0,
-   "equity_now": 1511.25,
+   "equity_now": 1510.96,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -100,13 +100,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 64904.3984375,
-   "mark": 81391.296875,
-   "mark_when": "2026-10-17 18:05",
+   "mark": 81388.3984375,
+   "mark_when": "2026-10-17 19:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 50.8,
+   "upl_pct": 50.79,
    "capital": 1000.0,
-   "equity_now": 1508.04,
+   "equity_now": 1507.95,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -213,20 +213,20 @@
   },
   {
    "n": 10,
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
+   "symbol": "Monero",
+   "ticker": "XMR-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
-   "entry_price": 715.1300048828125,
-   "mark": 715.1300048828125,
-   "mark_when": "2026-10-17 18:05",
+   "entry_price": 560.6473388671875,
+   "mark": 560.6473388671875,
+   "mark_when": "2026-10-17 19:04",
    "frozen": false,
    "jump": null,
    "upl_pct": 0.0,
-   "capital": 1027.27,
-   "equity_now": 1027.27,
-   "opened": "2026-10-17 18:05"
+   "capital": 2344.0,
+   "equity_now": 2344.0,
+   "opened": "2026-10-17 19:04"
   },
   {
    "n": 11,
@@ -338,13 +338,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1.3665000200271606,
-   "mark": 1.2944999933242798,
-   "mark_when": "2026-10-17 18:05",
+   "mark": 1.2967000007629395,
+   "mark_when": "2026-10-17 19:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -10.54,
+   "upl_pct": -10.22,
    "capital": 1000.0,
-   "equity_now": 894.62,
+   "equity_now": 897.84,
    "opened": "2026-08-21 19:05"
   }
  ]

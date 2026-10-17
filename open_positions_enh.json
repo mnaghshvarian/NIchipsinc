@@ -1,20 +1,26 @@
 {
- "generated": "2026-10-17 07:05:24 UTC",
+ "generated": "2026-10-17 08:05:13 UTC",
  "track": "ENH-ISO",
  "started": "2026-08-09 10:00",
  "portfolio": {
   "accounts": 23,
   "initial_capital": 23000.0,
-  "capital_after_closed": 24283.59,
-  "realized": 1283.59,
+  "capital_after_closed": 24282.38,
+  "realized": 1282.38,
   "realized_pct": 5.58,
-  "at_risk": 9943.19,
-  "unrealized": 343.1,
-  "unrealized_pct": 3.45,
-  "total_value": 24626.69,
-  "total_pct": 7.07
+  "at_risk": 9985.39,
+  "unrealized": 341.96,
+  "unrealized_pct": 3.42,
+  "total_value": 24624.34,
+  "total_pct": 7.06
  },
  "out_of_market": [
+  {
+   "ticker": "BNB-USD",
+   "symbol": "BNB",
+   "capital": 1079.57,
+   "exhausted": false
+  },
   {
    "ticker": "DOGE-USD",
    "symbol": "Dogecoin",
@@ -31,12 +37,6 @@
    "ticker": "LTC-USD",
    "symbol": "Litecoin",
    "capital": 1040.7,
-   "exhausted": false
-  },
-  {
-   "ticker": "XMR-USD",
-   "symbol": "Monero",
-   "capital": 1207.38,
    "exhausted": false
   },
   {
@@ -78,14 +78,14 @@
    "opened": "2026-08-09 11:00",
    "committed": 1000.0,
    "avg_entry": 1896.625,
-   "mark": 2430.969971,
-   "mark_when": "2026-10-17 07:05",
+   "mark": 2430.73999,
+   "mark_when": "2026-10-17 08:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 355.03,
-   "pl": 200.05,
-   "upl_unit_pct": 56.35,
-   "value": 1265.14
+   "pl": 199.96,
+   "upl_unit_pct": 56.32,
+   "value": 1265.05
   },
   {
    "symbol": "Bitcoin",
@@ -95,14 +95,14 @@
    "opened": "2026-08-09 11:00",
    "committed": 1000.0,
    "avg_entry": 64200.830078,
-   "mark": 81520.59375,
-   "mark_when": "2026-10-17 07:05",
+   "mark": 81602.09375,
+   "mark_when": "2026-10-17 08:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 348.11,
-   "pl": 187.82,
-   "upl_unit_pct": 53.95,
-   "value": 1232.15
+   "pl": 188.71,
+   "upl_unit_pct": 54.21,
+   "value": 1233.03
   },
   {
    "symbol": "Crude WTI",
@@ -173,21 +173,21 @@
    "value": 985.27
   },
   {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
+   "symbol": "Monero",
+   "ticker": "XMR-USD",
    "side": "LONG",
    "sizing": 33.3,
-   "opened": "2026-10-17 07:00",
+   "opened": "2026-10-17 08:00",
    "committed": 1000.0,
-   "avg_entry": 721.809998,
-   "mark": 721.849976,
-   "mark_when": "2026-10-17 07:04",
+   "avg_entry": 560.137268,
+   "mark": 560.085266,
+   "mark_when": "2026-10-17 08:04",
    "frozen": false,
    "group": "Crypto",
-   "deployed": 360.1,
-   "pl": 0.04,
-   "upl_unit_pct": 0.01,
-   "value": 1080.34
+   "deployed": 402.3,
+   "pl": -0.07,
+   "upl_unit_pct": -0.02,
+   "value": 1206.82
   },
   {
    "symbol": "GBP/USD",
@@ -299,14 +299,14 @@
    "opened": "2026-08-21 20:00",
    "committed": 1000.0,
    "avg_entry": 1.343414,
-   "mark": 1.3086,
-   "mark_when": "2026-10-17 07:05",
+   "mark": 1.3065,
+   "mark_when": "2026-10-17 08:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 585.27,
-   "pl": -30.33,
-   "upl_unit_pct": -5.18,
-   "value": 1140.21
+   "pl": -32.16,
+   "upl_unit_pct": -5.5,
+   "value": 1138.38
   },
   {
    "symbol": "Gold",

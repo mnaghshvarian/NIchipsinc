@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17 09:05:13 UTC",
+ "generated": "2026-10-17 10:05:14 UTC",
  "track": "ENH-CROSS",
  "started": "2026-08-12 22:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 939.98,
   "realized_pct": 4.09,
   "at_risk": 10724.15,
-  "unrealized": 573.15,
-  "unrealized_pct": 5.34,
-  "total_value": 24513.13,
-  "total_pct": 6.58
+  "unrealized": 564.1,
+  "unrealized_pct": 5.26,
+  "total_value": 24504.08,
+  "total_pct": 6.54
  },
  "out_of_market": [
   {
@@ -61,8 +61,8 @@
    "opened": "2026-08-12 23:00",
    "committed": 2000.0,
    "avg_entry": 1875.689941,
-   "mark": 2432.0,
-   "mark_when": "2026-10-17 09:04",
+   "mark": 2432.01001,
+   "mark_when": "2026-10-17 10:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 333.33,
@@ -78,14 +78,14 @@
    "opened": "2026-08-12 23:00",
    "committed": 4000.0,
    "avg_entry": 63332.339844,
-   "mark": 81603.34375,
-   "mark_when": "2026-10-17 09:05",
+   "mark": 81488.976562,
+   "mark_when": "2026-10-17 10:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 666.67,
-   "pl": 384.66,
-   "upl_unit_pct": 57.7,
-   "value": 1492.91
+   "pl": 382.25,
+   "upl_unit_pct": 57.34,
+   "value": 1490.51
   },
   {
    "symbol": "Brent",
@@ -173,23 +173,6 @@
    "value": 995.87
   },
   {
-   "symbol": "Monero",
-   "ticker": "XMR-USD",
-   "side": "LONG",
-   "sizing": 33.3,
-   "opened": "2026-10-17 08:00",
-   "committed": 709.2,
-   "avg_entry": 560.137268,
-   "mark": 559.226013,
-   "mark_when": "2026-10-17 09:03",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 236.4,
-   "pl": -0.77,
-   "upl_unit_pct": -0.33,
-   "value": 1156.98
-  },
-  {
    "symbol": "GBP/USD",
    "ticker": "GBPUSD=X",
    "side": "LONG",
@@ -258,6 +241,23 @@
    "value": 1022.13
   },
   {
+   "symbol": "Monero",
+   "ticker": "XMR-USD",
+   "side": "LONG",
+   "sizing": 33.3,
+   "opened": "2026-10-17 08:00",
+   "committed": 709.2,
+   "avg_entry": 560.137268,
+   "mark": 552.048401,
+   "mark_when": "2026-10-17 10:03",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 236.4,
+   "pl": -6.83,
+   "upl_unit_pct": -2.89,
+   "value": 1150.92
+  },
+  {
    "symbol": "Dow",
    "ticker": "^DJI",
    "side": "LONG",
@@ -299,14 +299,14 @@
    "opened": "2026-08-21 20:00",
    "committed": 279.52,
    "avg_entry": 1.343414,
-   "mark": 1.3056,
-   "mark_when": "2026-10-17 09:04",
+   "mark": 1.3028,
+   "mark_when": "2026-10-17 10:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 139.76,
-   "pl": -7.87,
-   "upl_unit_pct": -5.63,
-   "value": 1037.4
+   "pl": -8.45,
+   "upl_unit_pct": -6.05,
+   "value": 1036.81
   },
   {
    "symbol": "Gold",
@@ -352,8 +352,8 @@
   },
   "Crypto": {
    "cash": 8537.84,
-   "unreal": 573.75,
-   "value": 9111.59,
+   "unreal": 564.7,
+   "value": 9102.55,
    "symbols": 8
   },
   "Energy": {

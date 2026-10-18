@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-18 03:05:14 UTC",
+ "generated": "2026-10-18 04:05:44 UTC",
  "started": "2026-07-15 20:00",
  "days_running": 94.3,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 17942.1,
-  "value_now": 20157.64,
-  "unrealized": 2215.54,
-  "unrealized_pct": 12.35,
+  "value_now": 20222.0,
+  "unrealized": 2279.9,
+  "unrealized_pct": 12.71,
   "open_positions": 17,
   "up": 10,
   "down": 7,
@@ -16,8 +16,8 @@
   "capital_after_closed": 25167.12,
   "realized": 2167.12,
   "realized_pct": 9.42,
-  "total_value": 27382.66,
-  "total_pct": 19.06
+  "total_value": 27447.02,
+  "total_pct": 19.33
  },
  "out_of_market": [
   {
@@ -83,13 +83,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 64904.3984375,
-   "mark": 81725.140625,
-   "mark_when": "2026-10-18 03:05",
+   "mark": 81788.0,
+   "mark_when": "2026-10-18 04:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 51.83,
+   "upl_pct": 52.03,
    "capital": 1000.0,
-   "equity_now": 1518.32,
+   "equity_now": 1520.26,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -100,13 +100,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1921.719970703125,
-   "mark": 2414.449951171875,
-   "mark_when": "2026-10-18 03:05",
+   "mark": 2420.1201171875,
+   "mark_when": "2026-10-18 04:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 51.28,
+   "upl_pct": 51.87,
    "capital": 1000.0,
-   "equity_now": 1512.8,
+   "equity_now": 1518.7,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -128,6 +128,23 @@
   },
   {
    "n": 5,
+   "symbol": "Monero",
+   "ticker": "XMR-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 560.6473388671875,
+   "mark": 606.6162719726562,
+   "mark_when": "2026-10-18 04:03",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": 16.4,
+   "capital": 2344.0,
+   "equity_now": 2728.39,
+   "opened": "2026-10-17 19:04"
+  },
+  {
+   "n": 6,
    "symbol": "NatGas",
    "ticker": "NG=F",
    "side": "LONG",
@@ -142,23 +159,6 @@
    "capital": 801.26,
    "equity_now": 919.39,
    "opened": "2026-09-16 07:54"
-  },
-  {
-   "n": 6,
-   "symbol": "Monero",
-   "ticker": "XMR-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 560.6473388671875,
-   "mark": 600.20751953125,
-   "mark_when": "2026-10-18 03:03",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": 14.11,
-   "capital": 2344.0,
-   "equity_now": 2674.8,
-   "opened": "2026-10-17 19:04"
   },
   {
    "n": 7,
@@ -338,13 +338,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1.3665000200271606,
-   "mark": 1.2975000143051147,
-   "mark_when": "2026-10-18 03:05",
+   "mark": 1.2994999885559082,
+   "mark_when": "2026-10-18 04:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -10.1,
+   "upl_pct": -9.81,
    "capital": 1000.0,
-   "equity_now": 899.01,
+   "equity_now": 901.94,
    "opened": "2026-08-21 19:05"
   }
  ]

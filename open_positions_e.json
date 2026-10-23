@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23 22:05:14 UTC",
+ "generated": "2026-10-23 23:05:13 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1080.76,
   "realized_pct": 4.7,
   "at_risk": 9861.98,
-  "unrealized": -1033.73,
-  "unrealized_pct": -10.48,
-  "total_value": 23047.03,
-  "total_pct": 0.2
+  "unrealized": -1045.55,
+  "unrealized_pct": -10.6,
+  "total_value": 23035.21,
+  "total_pct": 0.15
  },
  "out_of_market": [
   {
@@ -104,30 +104,13 @@
    "committed": 1000.0,
    "avg_entry": 156.171997,
    "mark": 156.813995,
-   "mark_when": "2026-10-23 20:59",
+   "mark_when": "2026-10-23 20:00",
    "frozen": false,
    "group": "FX",
    "deployed": 987.75,
    "pl": 8.12,
    "upl_unit_pct": 0.82,
    "value": 995.87
-  },
-  {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-10-21 21:00",
-   "committed": 1000.0,
-   "avg_entry": 749.119995,
-   "mark": 740.76001,
-   "mark_when": "2026-10-23 22:04",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1114.83,
-   "pl": -24.88,
-   "upl_unit_pct": -2.23,
-   "value": 1089.95
   },
   {
    "symbol": "GBP/USD",
@@ -138,13 +121,30 @@
    "committed": 1000.0,
    "avg_entry": 1.358936,
    "mark": 1.337489,
-   "mark_when": "2026-10-23 21:29",
+   "mark_when": "2026-10-23 21:00",
    "frozen": false,
    "group": "FX",
    "deployed": 990.84,
    "pl": -31.28,
    "upl_unit_pct": -3.16,
    "value": 959.56
+  },
+  {
+   "symbol": "BNB",
+   "ticker": "BNB-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-10-21 21:00",
+   "committed": 1000.0,
+   "avg_entry": 749.119995,
+   "mark": 736.789978,
+   "mark_when": "2026-10-23 23:02",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1114.83,
+   "pl": -36.7,
+   "upl_unit_pct": -3.29,
+   "value": 1078.13
   },
   {
    "symbol": "S&P 500",
@@ -172,7 +172,7 @@
    "committed": 1000.0,
    "avg_entry": 0.720305,
    "mark": 0.703779,
-   "mark_when": "2026-10-23 21:29",
+   "mark_when": "2026-10-23 21:00",
    "frozen": false,
    "group": "FX",
    "deployed": 990.84,

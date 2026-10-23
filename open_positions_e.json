@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23 03:05:13 UTC",
+ "generated": "2026-10-23 04:05:13 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1081.97,
   "realized_pct": 4.7,
   "at_risk": 9863.18,
-  "unrealized": -1003.31,
-  "unrealized_pct": -10.17,
-  "total_value": 23078.66,
-  "total_pct": 0.34
+  "unrealized": -1016.39,
+  "unrealized_pct": -10.3,
+  "total_value": 23065.58,
+  "total_pct": 0.29
  },
  "out_of_market": [
   {
@@ -103,14 +103,14 @@
    "opened": "2026-09-17 01:00",
    "committed": 1000.0,
    "avg_entry": 156.171997,
-   "mark": 156.947998,
-   "mark_when": "2026-10-23 03:05",
+   "mark": 156.938995,
+   "mark_when": "2026-10-23 04:05",
    "frozen": false,
    "group": "FX",
    "deployed": 987.75,
-   "pl": 9.82,
-   "upl_unit_pct": 0.99,
-   "value": 997.56
+   "pl": 9.7,
+   "upl_unit_pct": 0.98,
+   "value": 997.45
   },
   {
    "symbol": "S&P 500",
@@ -130,23 +130,6 @@
    "value": 951.31
   },
   {
-   "symbol": "GBP/USD",
-   "ticker": "GBPUSD=X",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 1.358936,
-   "mark": 1.339549,
-   "mark_when": "2026-10-23 03:04",
-   "frozen": false,
-   "group": "FX",
-   "deployed": 990.84,
-   "pl": -28.27,
-   "upl_unit_pct": -2.85,
-   "value": 962.56
-  },
-  {
    "symbol": "BNB",
    "ticker": "BNB-USD",
    "side": "LONG",
@@ -154,14 +137,31 @@
    "opened": "2026-10-21 21:00",
    "committed": 1000.0,
    "avg_entry": 749.119995,
-   "mark": 737.789978,
-   "mark_when": "2026-10-23 03:04",
+   "mark": 738.719971,
+   "mark_when": "2026-10-23 04:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1114.83,
-   "pl": -33.72,
-   "upl_unit_pct": -3.02,
-   "value": 1081.11
+   "pl": -30.95,
+   "upl_unit_pct": -2.78,
+   "value": 1083.87
+  },
+  {
+   "symbol": "GBP/USD",
+   "ticker": "GBPUSD=X",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 1.358936,
+   "mark": 1.339423,
+   "mark_when": "2026-10-23 04:04",
+   "frozen": false,
+   "group": "FX",
+   "deployed": 990.84,
+   "pl": -28.45,
+   "upl_unit_pct": -2.87,
+   "value": 962.38
   },
   {
    "symbol": "Dow",
@@ -188,14 +188,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 0.720305,
-   "mark": 0.701754,
-   "mark_when": "2026-10-23 03:03",
+   "mark": 0.701459,
+   "mark_when": "2026-10-23 04:03",
    "frozen": false,
    "group": "FX",
    "deployed": 990.84,
-   "pl": -51.04,
-   "upl_unit_pct": -5.15,
-   "value": 939.8
+   "pl": -51.85,
+   "upl_unit_pct": -5.23,
+   "value": 938.99
   },
   {
    "symbol": "Nasdaq 100",
@@ -222,14 +222,14 @@
    "opened": "2026-09-22 17:00",
    "committed": 1000.0,
    "avg_entry": 6.8535,
-   "mark": 6.4395,
-   "mark_when": "2026-10-23 02:55",
+   "mark": 6.431,
+   "mark_when": "2026-10-23 03:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 891.52,
-   "pl": -107.71,
-   "upl_unit_pct": -12.08,
-   "value": 783.81
+   "pl": -109.92,
+   "upl_unit_pct": -12.33,
+   "value": 781.6
   },
   {
    "symbol": "Gold",
@@ -239,14 +239,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 4634.0,
-   "mark": 4038.899902,
-   "mark_when": "2026-10-23 02:54",
+   "mark": 4029.800049,
+   "mark_when": "2026-10-23 03:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 977.24,
-   "pl": -251.0,
-   "upl_unit_pct": -25.68,
-   "value": 726.25
+   "pl": -254.83,
+   "upl_unit_pct": -26.08,
+   "value": 722.41
   },
   {
    "symbol": "Silver",
@@ -256,14 +256,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 69.654999,
-   "mark": 54.290001,
-   "mark_when": "2026-10-23 02:54",
+   "mark": 53.98,
+   "mark_when": "2026-10-23 03:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 977.24,
-   "pl": -431.13,
-   "upl_unit_pct": -44.12,
-   "value": 546.11
+   "pl": -439.83,
+   "upl_unit_pct": -45.01,
+   "value": 537.41
   }
  ]
 }

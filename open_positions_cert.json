@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23 13:05:13 UTC",
+ "generated": "2026-10-23 14:05:16 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 2340.03,
   "realized_pct": 10.17,
   "at_risk": 9089.78,
-  "unrealized": -454.11,
-  "unrealized_pct": -5.0,
-  "total_value": 24885.92,
-  "total_pct": 8.2
+  "unrealized": -468.03,
+  "unrealized_pct": -5.15,
+  "total_value": 24872.0,
+  "total_pct": 8.14
  },
  "out_of_market": [
   {
@@ -109,14 +109,14 @@
    "opened": "2026-09-17 00:00",
    "committed": 1000.0,
    "avg_entry": 155.957001,
-   "mark": 156.522995,
-   "mark_when": "2026-10-23 13:05",
+   "mark": 156.761993,
+   "mark_when": "2026-10-23 14:05",
    "frozen": false,
    "group": "FX",
    "deployed": 973.7,
-   "pl": 7.07,
-   "upl_unit_pct": 0.73,
-   "value": 980.77
+   "pl": 10.05,
+   "upl_unit_pct": 1.03,
+   "value": 983.76
   },
   {
    "symbol": "BNB",
@@ -126,14 +126,14 @@
    "opened": "2026-10-21 20:00",
    "committed": 1000.0,
    "avg_entry": 748.900024,
-   "mark": 745.119995,
-   "mark_when": "2026-10-23 13:04",
+   "mark": 747.919983,
+   "mark_when": "2026-10-23 14:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1171.77,
-   "pl": -11.83,
-   "upl_unit_pct": -1.01,
-   "value": 1159.94
+   "pl": -3.07,
+   "upl_unit_pct": -0.26,
+   "value": 1168.7
   },
   {
    "symbol": "AUD/USD",
@@ -143,14 +143,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 0.706714,
-   "mark": 0.702889,
-   "mark_when": "2026-10-23 13:03",
+   "mark": 0.703334,
+   "mark_when": "2026-10-23 14:03",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -10.82,
-   "upl_unit_pct": -1.08,
-   "value": 989.18
+   "pl": -9.57,
+   "upl_unit_pct": -0.96,
+   "value": 990.43
   },
   {
    "symbol": "GBP/USD",
@@ -160,31 +160,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.349327,
-   "mark": 1.338151,
-   "mark_when": "2026-10-23 13:04",
+   "mark": 1.337471,
+   "mark_when": "2026-10-23 14:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -16.57,
-   "upl_unit_pct": -1.66,
-   "value": 983.43
-  },
-  {
-   "symbol": "Dow",
-   "ticker": "^DJI",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-14 13:30",
-   "committed": 1000.0,
-   "avg_entry": 53824.289062,
-   "mark": 52867.980469,
-   "mark_when": "2026-10-22 20:00",
-   "frozen": true,
-   "group": "Indices",
-   "deployed": 1000.0,
-   "pl": -35.53,
-   "upl_unit_pct": -3.55,
-   "value": 964.47
+   "pl": -17.57,
+   "upl_unit_pct": -1.76,
+   "value": 982.43
   },
   {
    "symbol": "S&P 500",
@@ -194,14 +177,31 @@
    "opened": "2026-08-14 13:30",
    "committed": 1000.0,
    "avg_entry": 7808.149902,
-   "mark": 7663.430176,
-   "mark_when": "2026-10-22 20:00",
-   "frozen": true,
+   "mark": 7630.330078,
+   "mark_when": "2026-10-23 14:05",
+   "frozen": false,
    "group": "Indices",
    "deployed": 1000.0,
-   "pl": -37.07,
-   "upl_unit_pct": -3.71,
-   "value": 962.93
+   "pl": -45.55,
+   "upl_unit_pct": -4.55,
+   "value": 954.45
+  },
+  {
+   "symbol": "Dow",
+   "ticker": "^DJI",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-14 13:30",
+   "committed": 1000.0,
+   "avg_entry": 53824.289062,
+   "mark": 52278.25,
+   "mark_when": "2026-10-23 14:05",
+   "frozen": false,
+   "group": "Indices",
+   "deployed": 1000.0,
+   "pl": -57.45,
+   "upl_unit_pct": -5.74,
+   "value": 942.55
   },
   {
    "symbol": "Nasdaq 100",
@@ -211,14 +211,14 @@
    "opened": "2026-08-14 13:30",
    "committed": 1000.0,
    "avg_entry": 30160.082031,
-   "mark": 28958.6875,
-   "mark_when": "2026-10-22 20:00",
-   "frozen": true,
+   "mark": 28997.238281,
+   "mark_when": "2026-10-23 14:05",
+   "frozen": false,
    "group": "Indices",
    "deployed": 1000.0,
-   "pl": -79.67,
-   "upl_unit_pct": -7.97,
-   "value": 920.33
+   "pl": -77.11,
+   "upl_unit_pct": -7.71,
+   "value": 922.89
   },
   {
    "symbol": "Copper",
@@ -228,14 +228,14 @@
    "opened": "2026-09-22 16:00",
    "committed": 1000.0,
    "avg_entry": 6.837,
-   "mark": 6.472,
-   "mark_when": "2026-10-23 12:55",
+   "mark": 6.485,
+   "mark_when": "2026-10-23 13:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 944.31,
-   "pl": -100.83,
-   "upl_unit_pct": -10.68,
-   "value": 843.48
+   "pl": -97.23,
+   "upl_unit_pct": -10.3,
+   "value": 847.07
   },
   {
    "symbol": "Gold",
@@ -245,14 +245,14 @@
    "opened": "2026-08-13 23:00",
    "committed": 1000.0,
    "avg_entry": 4413.200195,
-   "mark": 4040.600098,
-   "mark_when": "2026-10-23 12:54",
+   "mark": 4036.899902,
+   "mark_when": "2026-10-23 13:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 1000.0,
-   "pl": -168.86,
-   "upl_unit_pct": -16.89,
-   "value": 831.14
+   "pl": -170.53,
+   "upl_unit_pct": -17.05,
+   "value": 829.47
   }
  ]
 }

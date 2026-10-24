@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23 23:05:13 UTC",
+ "generated": "2026-10-24 00:05:14 UTC",
  "track": "ENH-CONF",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1204.33,
   "realized_pct": 5.24,
   "at_risk": 10343.14,
-  "unrealized": 90.81,
-  "unrealized_pct": 0.88,
-  "total_value": 24295.14,
-  "total_pct": 5.63
+  "unrealized": 101.21,
+  "unrealized_pct": 0.98,
+  "total_value": 24305.54,
+  "total_pct": 5.68
  },
  "out_of_market": [
   {
@@ -61,14 +61,14 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 395.144684,
-   "mark": 582.57196,
-   "mark_when": "2026-10-23 23:01",
+   "mark": 584.199707,
+   "mark_when": "2026-10-24 00:03",
    "frozen": false,
    "group": "Crypto",
    "deployed": 169.6,
-   "pl": 160.89,
-   "upl_unit_pct": 94.87,
-   "value": 1178.52
+   "pl": 162.29,
+   "upl_unit_pct": 95.69,
+   "value": 1179.91
   },
   {
    "symbol": "Brent",
@@ -88,6 +88,23 @@
    "value": 1257.25
   },
   {
+   "symbol": "Bitcoin",
+   "ticker": "BTC-USD",
+   "side": "LONG",
+   "sizing": 16.7,
+   "opened": "2026-08-14 01:00",
+   "committed": 1000.0,
+   "avg_entry": 63508.25,
+   "mark": 81037.921875,
+   "mark_when": "2026-10-24 00:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 171.01,
+   "pl": 94.4,
+   "upl_unit_pct": 55.2,
+   "value": 1120.46
+  },
+  {
    "symbol": "Crude WTI",
    "ticker": "CL=F",
    "side": "LONG",
@@ -105,23 +122,6 @@
    "value": 1128.08
   },
   {
-   "symbol": "Bitcoin",
-   "ticker": "BTC-USD",
-   "side": "LONG",
-   "sizing": 16.7,
-   "opened": "2026-08-14 01:00",
-   "committed": 1000.0,
-   "avg_entry": 63508.25,
-   "mark": 80783.90625,
-   "mark_when": "2026-10-23 23:02",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 171.01,
-   "pl": 93.04,
-   "upl_unit_pct": 54.4,
-   "value": 1119.09
-  },
-  {
    "symbol": "Ethereum",
    "ticker": "ETH-USD",
    "side": "LONG",
@@ -129,14 +129,14 @@
    "opened": "2026-08-14 01:00",
    "committed": 1000.0,
    "avg_entry": 1887.040039,
-   "mark": 2368.310059,
-   "mark_when": "2026-10-23 23:02",
+   "mark": 2383.360107,
+   "mark_when": "2026-10-24 00:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 169.34,
-   "pl": 86.38,
-   "upl_unit_pct": 51.01,
-   "value": 1102.44
+   "pl": 89.08,
+   "upl_unit_pct": 52.6,
+   "value": 1105.14
   },
   {
    "symbol": "NatGas",
@@ -182,7 +182,7 @@
    "avg_entry": 156.171997,
    "mark": 156.813995,
    "mark_when": "2026-10-23 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "FX",
    "deployed": 331.97,
    "pl": 2.73,
@@ -214,14 +214,14 @@
    "opened": "2026-10-21 21:00",
    "committed": 1000.0,
    "avg_entry": 740.665009,
-   "mark": 736.789978,
-   "mark_when": "2026-10-23 23:02",
+   "mark": 738.25,
+   "mark_when": "2026-10-24 00:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 723.21,
-   "pl": -7.57,
-   "upl_unit_pct": -1.05,
-   "value": 1077.25
+   "pl": -4.72,
+   "upl_unit_pct": -0.65,
+   "value": 1080.1
   },
   {
    "symbol": "Dow",
@@ -233,7 +233,7 @@
    "avg_entry": 52693.493672,
    "mark": 52215.160156,
    "mark_when": "2026-10-23 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 998.8,
    "pl": -18.13,
@@ -250,7 +250,7 @@
    "avg_entry": 7712.990903,
    "mark": 7623.680176,
    "mark_when": "2026-10-23 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 666.13,
    "pl": -15.43,
@@ -267,7 +267,7 @@
    "avg_entry": 29424.597617,
    "mark": 28957.527344,
    "mark_when": "2026-10-23 20:00",
-   "frozen": false,
+   "frozen": true,
    "group": "Indices",
    "deployed": 1047.51,
    "pl": -33.26,
@@ -299,14 +299,14 @@
    "opened": "2026-08-21 21:00",
    "committed": 1000.0,
    "avg_entry": 1.343667,
-   "mark": 1.2904,
-   "mark_when": "2026-10-23 23:02",
+   "mark": 1.2928,
+   "mark_when": "2026-10-24 00:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 584.68,
-   "pl": -46.36,
-   "upl_unit_pct": -7.93,
-   "value": 1123.0
+   "pl": -44.27,
+   "upl_unit_pct": -7.57,
+   "value": 1125.09
   },
   {
    "symbol": "Gold",

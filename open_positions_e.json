@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24 00:05:14 UTC",
+ "generated": "2026-10-24 01:05:14 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1079.84,
   "realized_pct": 4.69,
   "at_risk": 9861.06,
-  "unrealized": -1041.18,
-  "unrealized_pct": -10.56,
-  "total_value": 23038.66,
-  "total_pct": 0.17
+  "unrealized": -1049.71,
+  "unrealized_pct": -10.65,
+  "total_value": 23030.13,
+  "total_pct": 0.13
  },
  "out_of_market": [
   {
@@ -113,23 +113,6 @@
    "value": 995.87
   },
   {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-10-21 21:00",
-   "committed": 1000.0,
-   "avg_entry": 749.119995,
-   "mark": 738.25,
-   "mark_when": "2026-10-24 00:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1113.91,
-   "pl": -32.33,
-   "upl_unit_pct": -2.9,
-   "value": 1081.59
-  },
-  {
    "symbol": "GBP/USD",
    "ticker": "GBPUSD=X",
    "side": "LONG",
@@ -139,12 +122,29 @@
    "avg_entry": 1.358936,
    "mark": 1.337489,
    "mark_when": "2026-10-23 21:00",
-   "frozen": false,
+   "frozen": true,
    "group": "FX",
    "deployed": 990.84,
    "pl": -31.28,
    "upl_unit_pct": -3.16,
    "value": 959.56
+  },
+  {
+   "symbol": "BNB",
+   "ticker": "BNB-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-10-21 21:00",
+   "committed": 1000.0,
+   "avg_entry": 749.119995,
+   "mark": 735.380005,
+   "mark_when": "2026-10-24 01:04",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1113.91,
+   "pl": -40.86,
+   "upl_unit_pct": -3.67,
+   "value": 1073.05
   },
   {
    "symbol": "S&P 500",
@@ -173,7 +173,7 @@
    "avg_entry": 0.720305,
    "mark": 0.703779,
    "mark_when": "2026-10-23 21:00",
-   "frozen": false,
+   "frozen": true,
    "group": "FX",
    "deployed": 990.84,
    "pl": -45.47,
@@ -224,7 +224,7 @@
    "avg_entry": 6.8535,
    "mark": 6.4975,
    "mark_when": "2026-10-23 20:59",
-   "frozen": false,
+   "frozen": true,
    "group": "Metals",
    "deployed": 891.52,
    "pl": -92.62,
@@ -241,7 +241,7 @@
    "avg_entry": 4634.0,
    "mark": 4010.0,
    "mark_when": "2026-10-23 20:59",
-   "frozen": false,
+   "frozen": true,
    "group": "Metals",
    "deployed": 977.24,
    "pl": -263.18,
@@ -258,7 +258,7 @@
    "avg_entry": 69.654999,
    "mark": 53.959999,
    "mark_when": "2026-10-23 20:59",
-   "frozen": false,
+   "frozen": true,
    "group": "Metals",
    "deployed": 977.24,
    "pl": -440.39,

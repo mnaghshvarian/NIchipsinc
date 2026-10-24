@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-24 16:05:13 UTC",
+ "generated": "2026-10-24 17:05:13 UTC",
  "started": "2026-07-15 20:00",
- "days_running": 100.8,
+ "days_running": 100.9,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 17963.7,
-  "value_now": 19701.31,
-  "unrealized": 1737.61,
-  "unrealized_pct": 9.67,
+  "value_now": 19863.78,
+  "unrealized": 1900.08,
+  "unrealized_pct": 10.58,
   "open_positions": 17,
   "up": 9,
   "down": 8,
@@ -16,8 +16,8 @@
   "capital_after_closed": 25156.41,
   "realized": 2156.41,
   "realized_pct": 9.38,
-  "total_value": 26894.02,
-  "total_pct": 16.93
+  "total_value": 27056.49,
+  "total_pct": 17.64
  },
  "out_of_market": [
   {
@@ -100,13 +100,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 64904.3984375,
-   "mark": 79591.21875,
-   "mark_when": "2026-10-24 16:05",
+   "mark": 80135.6484375,
+   "mark_when": "2026-10-24 17:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 45.26,
+   "upl_pct": 46.93,
    "capital": 1000.0,
-   "equity_now": 1452.57,
+   "equity_now": 1469.34,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -117,13 +117,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1921.719970703125,
-   "mark": 2299.1201171875,
-   "mark_when": "2026-10-24 16:05",
+   "mark": 2314.6298828125,
+   "mark_when": "2026-10-24 17:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": 39.28,
+   "upl_pct": 40.89,
    "capital": 1000.0,
-   "equity_now": 1392.77,
+   "equity_now": 1408.91,
    "opened": "2026-07-15 20:14"
   },
   {
@@ -134,13 +134,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 560.6473388671875,
-   "mark": 595.1283569335938,
-   "mark_when": "2026-10-24 16:02",
+   "mark": 607.5616455078125,
+   "mark_when": "2026-10-24 17:03",
    "frozen": false,
    "jump": null,
-   "upl_pct": 12.3,
+   "upl_pct": 16.74,
    "capital": 2344.0,
-   "equity_now": 2632.33,
+   "equity_now": 2736.29,
    "opened": "2026-10-17 19:04"
   },
   {
@@ -287,13 +287,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 747.8499755859375,
-   "mark": 719.4500122070312,
-   "mark_when": "2026-10-24 16:04",
+   "mark": 723.4099731445312,
+   "mark_when": "2026-10-24 17:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -7.6,
+   "upl_pct": -6.54,
    "capital": 1021.6,
-   "equity_now": 944.0,
+   "equity_now": 954.82,
    "opened": "2026-10-21 19:04"
   },
   {
@@ -315,6 +315,23 @@
   },
   {
    "n": 16,
+   "symbol": "XRP",
+   "ticker": "XRP-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 1.3665000200271606,
+   "mark": 1.2747000455856323,
+   "mark_when": "2026-10-24 17:04",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -13.44,
+   "capital": 1000.0,
+   "equity_now": 865.64,
+   "opened": "2026-08-21 19:05"
+  },
+  {
+   "n": 17,
    "symbol": "Silver",
    "ticker": "SI=F",
    "side": "LONG",
@@ -329,23 +346,6 @@
    "capital": 1000.0,
    "equity_now": 857.17,
    "opened": "2026-07-15 20:04"
-  },
-  {
-   "n": 17,
-   "symbol": "XRP",
-   "ticker": "XRP-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 1.3665000200271606,
-   "mark": 1.2646000385284424,
-   "mark_when": "2026-10-24 16:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -14.91,
-   "capital": 1000.0,
-   "equity_now": 850.86,
-   "opened": "2026-08-21 19:05"
   }
  ]
 }

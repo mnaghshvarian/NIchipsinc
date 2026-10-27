@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27 10:05:13 UTC",
+ "generated": "2026-10-27 11:05:13 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1066.86,
   "realized_pct": 4.64,
   "at_risk": 9848.08,
-  "unrealized": -997.79,
-  "unrealized_pct": -10.13,
-  "total_value": 23069.07,
-  "total_pct": 0.3
+  "unrealized": -980.45,
+  "unrealized_pct": -9.96,
+  "total_value": 23086.41,
+  "total_pct": 0.38
  },
  "out_of_market": [
   {
@@ -103,14 +103,14 @@
    "opened": "2026-09-17 01:00",
    "committed": 1000.0,
    "avg_entry": 156.171997,
-   "mark": 157.729996,
-   "mark_when": "2026-10-27 10:05",
+   "mark": 157.695999,
+   "mark_when": "2026-10-27 11:05",
    "frozen": false,
    "group": "FX",
    "deployed": 987.1,
-   "pl": 19.69,
-   "upl_unit_pct": 2.0,
-   "value": 1006.79
+   "pl": 19.27,
+   "upl_unit_pct": 1.95,
+   "value": 1006.36
   },
   {
    "symbol": "S&P 500",
@@ -130,6 +130,23 @@
    "value": 953.1
   },
   {
+   "symbol": "BNB",
+   "ticker": "BNB-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-10-21 21:00",
+   "committed": 1000.0,
+   "avg_entry": 749.119995,
+   "mark": 740.109985,
+   "mark_when": "2026-10-27 11:04",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1111.17,
+   "pl": -26.73,
+   "upl_unit_pct": -2.41,
+   "value": 1084.44
+  },
+  {
    "symbol": "Nasdaq 100",
    "ticker": "^NDX",
    "side": "LONG",
@@ -147,23 +164,6 @@
    "value": 945.28
   },
   {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-10-21 21:00",
-   "committed": 1000.0,
-   "avg_entry": 749.119995,
-   "mark": 735.169983,
-   "mark_when": "2026-10-27 10:04",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1111.17,
-   "pl": -41.38,
-   "upl_unit_pct": -3.72,
-   "value": 1069.78
-  },
-  {
    "symbol": "GBP/USD",
    "ticker": "GBPUSD=X",
    "side": "LONG",
@@ -171,14 +171,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.358936,
-   "mark": 1.331771,
-   "mark_when": "2026-10-27 10:04",
+   "mark": 1.331416,
+   "mark_when": "2026-10-27 11:04",
    "frozen": false,
    "group": "FX",
    "deployed": 990.18,
-   "pl": -39.59,
-   "upl_unit_pct": -4.0,
-   "value": 950.6
+   "pl": -40.1,
+   "upl_unit_pct": -4.05,
+   "value": 950.08
   },
   {
    "symbol": "AUD/USD",
@@ -188,14 +188,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 0.720305,
-   "mark": 0.70279,
-   "mark_when": "2026-10-27 10:04",
+   "mark": 0.703284,
+   "mark_when": "2026-10-27 11:04",
    "frozen": false,
    "group": "FX",
    "deployed": 990.18,
-   "pl": -48.16,
-   "upl_unit_pct": -4.86,
-   "value": 942.03
+   "pl": -46.8,
+   "upl_unit_pct": -4.73,
+   "value": 943.39
   },
   {
    "symbol": "Dow",
@@ -222,14 +222,14 @@
    "opened": "2026-09-22 17:00",
    "committed": 1000.0,
    "avg_entry": 6.8535,
-   "mark": 6.6105,
-   "mark_when": "2026-10-27 09:55",
+   "mark": 6.603,
+   "mark_when": "2026-10-27 10:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 890.05,
-   "pl": -63.12,
-   "upl_unit_pct": -7.09,
-   "value": 826.94
+   "pl": -65.06,
+   "upl_unit_pct": -7.31,
+   "value": 824.99
   },
   {
    "symbol": "Gold",
@@ -239,14 +239,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 4634.0,
-   "mark": 4010.699951,
-   "mark_when": "2026-10-27 09:54",
+   "mark": 4018.0,
+   "mark_when": "2026-10-27 10:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 975.64,
-   "pl": -262.46,
-   "upl_unit_pct": -26.9,
-   "value": 713.18
+   "pl": -259.38,
+   "upl_unit_pct": -26.59,
+   "value": 716.25
   },
   {
    "symbol": "Silver",
@@ -256,14 +256,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 69.654999,
-   "mark": 53.294998,
-   "mark_when": "2026-10-27 09:55",
+   "mark": 53.334999,
+   "mark_when": "2026-10-27 10:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 975.64,
-   "pl": -458.3,
-   "upl_unit_pct": -46.97,
-   "value": 517.34
+   "pl": -457.18,
+   "upl_unit_pct": -46.86,
+   "value": 518.46
   }
  ]
 }

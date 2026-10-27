@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27 07:05:13 UTC",
+ "generated": "2026-10-27 08:05:13 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1066.86,
   "realized_pct": 4.64,
   "at_risk": 9848.08,
-  "unrealized": -1028.58,
-  "unrealized_pct": -10.44,
-  "total_value": 23038.28,
-  "total_pct": 0.17
+  "unrealized": -1018.23,
+  "unrealized_pct": -10.34,
+  "total_value": 23048.63,
+  "total_pct": 0.21
  },
  "out_of_market": [
   {
@@ -103,14 +103,14 @@
    "opened": "2026-09-17 01:00",
    "committed": 1000.0,
    "avg_entry": 156.171997,
-   "mark": 157.858994,
-   "mark_when": "2026-10-27 07:05",
+   "mark": 157.852997,
+   "mark_when": "2026-10-27 08:05",
    "frozen": false,
    "group": "FX",
    "deployed": 987.1,
-   "pl": 21.33,
-   "upl_unit_pct": 2.16,
-   "value": 1008.42
+   "pl": 21.25,
+   "upl_unit_pct": 2.15,
+   "value": 1008.35
   },
   {
    "symbol": "S&P 500",
@@ -147,23 +147,6 @@
    "value": 945.28
   },
   {
-   "symbol": "GBP/USD",
-   "ticker": "GBPUSD=X",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 1.358936,
-   "mark": 1.332214,
-   "mark_when": "2026-10-27 07:04",
-   "frozen": false,
-   "group": "FX",
-   "deployed": 990.18,
-   "pl": -38.94,
-   "upl_unit_pct": -3.93,
-   "value": 951.24
-  },
-  {
    "symbol": "BNB",
    "ticker": "BNB-USD",
    "side": "LONG",
@@ -171,14 +154,31 @@
    "opened": "2026-10-21 21:00",
    "committed": 1000.0,
    "avg_entry": 749.119995,
-   "mark": 733.900024,
-   "mark_when": "2026-10-27 07:04",
+   "mark": 736.150024,
+   "mark_when": "2026-10-27 08:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1111.17,
-   "pl": -45.15,
-   "upl_unit_pct": -4.06,
-   "value": 1066.02
+   "pl": -38.48,
+   "upl_unit_pct": -3.46,
+   "value": 1072.69
+  },
+  {
+   "symbol": "GBP/USD",
+   "ticker": "GBPUSD=X",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 1.358936,
+   "mark": 1.332303,
+   "mark_when": "2026-10-27 08:04",
+   "frozen": false,
+   "group": "FX",
+   "deployed": 990.18,
+   "pl": -38.81,
+   "upl_unit_pct": -3.92,
+   "value": 951.37
   },
   {
    "symbol": "AUD/USD",
@@ -188,14 +188,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 0.720305,
-   "mark": 0.701754,
-   "mark_when": "2026-10-27 07:04",
+   "mark": 0.70205,
+   "mark_when": "2026-10-27 08:04",
    "frozen": false,
    "group": "FX",
    "deployed": 990.18,
-   "pl": -51.0,
-   "upl_unit_pct": -5.15,
-   "value": 939.18
+   "pl": -50.19,
+   "upl_unit_pct": -5.07,
+   "value": 939.99
   },
   {
    "symbol": "Dow",
@@ -222,14 +222,14 @@
    "opened": "2026-09-22 17:00",
    "committed": 1000.0,
    "avg_entry": 6.8535,
-   "mark": 6.5515,
-   "mark_when": "2026-10-27 06:54",
+   "mark": 6.552,
+   "mark_when": "2026-10-27 07:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 890.05,
-   "pl": -78.44,
-   "upl_unit_pct": -8.81,
-   "value": 811.61
+   "pl": -78.31,
+   "upl_unit_pct": -8.8,
+   "value": 811.74
   },
   {
    "symbol": "Gold",
@@ -239,14 +239,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 4634.0,
-   "mark": 4013.5,
-   "mark_when": "2026-10-27 06:54",
+   "mark": 4015.199951,
+   "mark_when": "2026-10-27 07:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 975.64,
-   "pl": -261.28,
-   "upl_unit_pct": -26.78,
-   "value": 714.36
+   "pl": -260.56,
+   "upl_unit_pct": -26.71,
+   "value": 715.07
   },
   {
    "symbol": "Silver",
@@ -256,14 +256,14 @@
    "opened": "2026-08-28 04:00",
    "committed": 1000.0,
    "avg_entry": 69.654999,
-   "mark": 52.855,
-   "mark_when": "2026-10-27 06:54",
+   "mark": 52.924999,
+   "mark_when": "2026-10-27 07:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 975.64,
-   "pl": -470.63,
-   "upl_unit_pct": -48.24,
-   "value": 505.01
+   "pl": -468.66,
+   "upl_unit_pct": -48.04,
+   "value": 506.97
   }
  ]
 }

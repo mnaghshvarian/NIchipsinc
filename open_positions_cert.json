@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31 00:05:13 UTC",
+ "generated": "2026-10-31 01:05:13 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 2339.5,
   "realized_pct": 10.17,
   "at_risk": 10262.45,
-  "unrealized": -794.5,
-  "unrealized_pct": -7.74,
-  "total_value": 24545.0,
-  "total_pct": 6.72
+  "unrealized": -770.71,
+  "unrealized_pct": -7.51,
+  "total_value": 24568.79,
+  "total_pct": 6.82
  },
  "out_of_market": [
   {
@@ -139,7 +139,7 @@
    "avg_entry": 1.349327,
    "mark": 1.338939,
    "mark_when": "2026-10-30 21:00",
-   "frozen": false,
+   "frozen": true,
    "group": "FX",
    "deployed": 1000.0,
    "pl": -15.4,
@@ -154,14 +154,14 @@
    "opened": "2026-10-29 02:00",
    "committed": 1000.0,
    "avg_entry": 0.07806,
-   "mark": 0.07587,
-   "mark_when": "2026-10-31 00:05",
+   "mark": 0.07616,
+   "mark_when": "2026-10-31 01:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1172.67,
-   "pl": -65.8,
-   "upl_unit_pct": -5.61,
-   "value": 1106.87
+   "pl": -57.09,
+   "upl_unit_pct": -4.87,
+   "value": 1115.59
   },
   {
    "symbol": "S&P 500",
@@ -207,12 +207,29 @@
    "avg_entry": 6.837,
    "mark": 6.5095,
    "mark_when": "2026-10-30 20:59",
-   "frozen": false,
+   "frozen": true,
    "group": "Metals",
    "deployed": 944.31,
    "pl": -90.47,
    "upl_unit_pct": -9.58,
    "value": 853.84
+  },
+  {
+   "symbol": "BNB",
+   "ticker": "BNB-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-10-21 20:00",
+   "committed": 1000.0,
+   "avg_entry": 748.900024,
+   "mark": 708.52002,
+   "mark_when": "2026-10-31 01:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1171.77,
+   "pl": -126.36,
+   "upl_unit_pct": -10.78,
+   "value": 1045.41
   },
   {
    "symbol": "Nasdaq 100",
@@ -232,23 +249,6 @@
    "value": 882.28
   },
   {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-10-21 20:00",
-   "committed": 1000.0,
-   "avg_entry": 748.900024,
-   "mark": 703.700012,
-   "mark_when": "2026-10-31 00:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1171.77,
-   "pl": -141.44,
-   "upl_unit_pct": -12.07,
-   "value": 1030.32
-  },
-  {
    "symbol": "Gold",
    "ticker": "GC=F",
    "side": "LONG",
@@ -258,7 +258,7 @@
    "avg_entry": 4413.200195,
    "mark": 3884.899902,
    "mark_when": "2026-10-30 20:59",
-   "frozen": false,
+   "frozen": true,
    "group": "Metals",
    "deployed": 1000.0,
    "pl": -239.42,

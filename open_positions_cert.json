@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02 10:05:14 UTC",
+ "generated": "2026-11-02 11:05:13 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 2339.5,
   "realized_pct": 10.17,
   "at_risk": 10262.45,
-  "unrealized": -790.38,
-  "unrealized_pct": -7.7,
-  "total_value": 24549.12,
-  "total_pct": 6.74
+  "unrealized": -794.77,
+  "unrealized_pct": -7.74,
+  "total_value": 24544.73,
+  "total_pct": 6.72
  },
  "out_of_market": [
   {
@@ -103,14 +103,14 @@
    "opened": "2026-09-17 00:00",
    "committed": 1000.0,
    "avg_entry": 155.957001,
-   "mark": 157.942993,
-   "mark_when": "2026-11-02 10:05",
+   "mark": 157.919006,
+   "mark_when": "2026-11-02 11:05",
    "frozen": false,
    "group": "FX",
    "deployed": 973.7,
-   "pl": 24.8,
-   "upl_unit_pct": 2.55,
-   "value": 998.5
+   "pl": 24.5,
+   "upl_unit_pct": 2.52,
+   "value": 998.2
   },
   {
    "symbol": "GBP/USD",
@@ -120,14 +120,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.349327,
-   "mark": 1.342138,
-   "mark_when": "2026-11-02 10:04",
+   "mark": 1.341076,
+   "mark_when": "2026-11-02 11:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -10.66,
-   "upl_unit_pct": -1.07,
-   "value": 989.34
+   "pl": -12.23,
+   "upl_unit_pct": -1.22,
+   "value": 987.77
   },
   {
    "symbol": "AUD/USD",
@@ -137,14 +137,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 0.706714,
-   "mark": 0.702346,
-   "mark_when": "2026-11-02 10:03",
+   "mark": 0.70141,
+   "mark_when": "2026-11-02 11:03",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -12.36,
-   "upl_unit_pct": -1.24,
-   "value": 987.64
+   "pl": -15.01,
+   "upl_unit_pct": -1.5,
+   "value": 984.99
   },
   {
    "symbol": "S&P 500",
@@ -171,14 +171,14 @@
    "opened": "2026-10-29 02:00",
    "committed": 1000.0,
    "avg_entry": 0.07806,
-   "mark": 0.07515,
-   "mark_when": "2026-11-02 10:05",
+   "mark": 0.07521,
+   "mark_when": "2026-11-02 11:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1172.67,
-   "pl": -87.43,
-   "upl_unit_pct": -7.46,
-   "value": 1085.24
+   "pl": -85.63,
+   "upl_unit_pct": -7.3,
+   "value": 1087.04
   },
   {
    "symbol": "Dow",
@@ -205,31 +205,14 @@
    "opened": "2026-09-22 16:00",
    "committed": 1000.0,
    "avg_entry": 6.837,
-   "mark": 6.5225,
-   "mark_when": "2026-11-02 09:54",
+   "mark": 6.523,
+   "mark_when": "2026-11-02 10:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 944.31,
-   "pl": -86.88,
-   "upl_unit_pct": -9.2,
-   "value": 857.43
-  },
-  {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-10-21 20:00",
-   "committed": 1000.0,
-   "avg_entry": 748.900024,
-   "mark": 705.400024,
-   "mark_when": "2026-11-02 10:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1171.77,
-   "pl": -136.12,
-   "upl_unit_pct": -11.62,
-   "value": 1035.64
+   "pl": -86.74,
+   "upl_unit_pct": -9.19,
+   "value": 857.57
   },
   {
    "symbol": "Nasdaq 100",
@@ -249,6 +232,23 @@
    "value": 882.28
   },
   {
+   "symbol": "BNB",
+   "ticker": "BNB-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-10-21 20:00",
+   "committed": 1000.0,
+   "avg_entry": 748.900024,
+   "mark": 704.75,
+   "mark_when": "2026-11-02 11:04",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1171.77,
+   "pl": -138.16,
+   "upl_unit_pct": -11.79,
+   "value": 1033.61
+  },
+  {
    "symbol": "Gold",
    "ticker": "GC=F",
    "side": "LONG",
@@ -256,14 +256,14 @@
    "opened": "2026-08-13 23:00",
    "committed": 1000.0,
    "avg_entry": 4413.200195,
-   "mark": 3907.300049,
-   "mark_when": "2026-11-02 09:55",
+   "mark": 3907.800049,
+   "mark_when": "2026-11-02 10:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 1000.0,
-   "pl": -229.27,
-   "upl_unit_pct": -22.93,
-   "value": 770.73
+   "pl": -229.04,
+   "upl_unit_pct": -22.9,
+   "value": 770.96
   }
  ]
 }

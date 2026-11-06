@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06 06:05:13 UTC",
+ "generated": "2026-11-06 07:05:13 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 2339.5,
   "realized_pct": 10.17,
   "at_risk": 10262.45,
-  "unrealized": -1191.1,
-  "unrealized_pct": -11.61,
-  "total_value": 24148.4,
-  "total_pct": 4.99
+  "unrealized": -1206.85,
+  "unrealized_pct": -11.76,
+  "total_value": 24132.65,
+  "total_pct": 4.92
  },
  "out_of_market": [
   {
@@ -103,14 +103,14 @@
    "opened": "2026-09-17 00:00",
    "committed": 1000.0,
    "avg_entry": 155.957001,
-   "mark": 157.770004,
-   "mark_when": "2026-11-06 06:05",
+   "mark": 158.123993,
+   "mark_when": "2026-11-06 07:05",
    "frozen": false,
    "group": "FX",
    "deployed": 973.7,
-   "pl": 22.64,
-   "upl_unit_pct": 2.33,
-   "value": 996.34
+   "pl": 27.06,
+   "upl_unit_pct": 2.78,
+   "value": 1000.76
   },
   {
    "symbol": "GBP/USD",
@@ -120,14 +120,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 1.349327,
-   "mark": 1.342624,
-   "mark_when": "2026-11-06 06:04",
+   "mark": 1.340644,
+   "mark_when": "2026-11-06 07:04",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -9.94,
-   "upl_unit_pct": -0.99,
-   "value": 990.06
+   "pl": -12.87,
+   "upl_unit_pct": -1.29,
+   "value": 987.13
   },
   {
    "symbol": "AUD/USD",
@@ -137,14 +137,14 @@
    "opened": "2026-08-14 00:00",
    "committed": 1000.0,
    "avg_entry": 0.706714,
-   "mark": 0.688563,
-   "mark_when": "2026-11-06 06:03",
+   "mark": 0.687758,
+   "mark_when": "2026-11-06 07:03",
    "frozen": false,
    "group": "FX",
    "deployed": 1000.0,
-   "pl": -51.37,
-   "upl_unit_pct": -5.14,
-   "value": 948.63
+   "pl": -53.65,
+   "upl_unit_pct": -5.36,
+   "value": 946.35
   },
   {
    "symbol": "Dow",
@@ -181,23 +181,6 @@
    "value": 883.6
   },
   {
-   "symbol": "BNB",
-   "ticker": "BNB-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-10-21 20:00",
-   "committed": 1000.0,
-   "avg_entry": 748.900024,
-   "mark": 689.640015,
-   "mark_when": "2026-11-06 06:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1171.77,
-   "pl": -185.44,
-   "upl_unit_pct": -15.83,
-   "value": 986.33
-  },
-  {
    "symbol": "Gold",
    "ticker": "GC=F",
    "side": "LONG",
@@ -205,14 +188,31 @@
    "opened": "2026-08-13 23:00",
    "committed": 1000.0,
    "avg_entry": 4413.200195,
-   "mark": 4055.0,
-   "mark_when": "2026-11-06 05:54",
+   "mark": 4058.5,
+   "mark_when": "2026-11-06 06:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 1000.0,
-   "pl": -162.33,
-   "upl_unit_pct": -16.23,
-   "value": 837.67
+   "pl": -160.75,
+   "upl_unit_pct": -16.07,
+   "value": 839.25
+  },
+  {
+   "symbol": "BNB",
+   "ticker": "BNB-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-10-21 20:00",
+   "committed": 1000.0,
+   "avg_entry": 748.900024,
+   "mark": 687.340027,
+   "mark_when": "2026-11-06 07:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1171.77,
+   "pl": -192.64,
+   "upl_unit_pct": -16.44,
+   "value": 979.13
   },
   {
    "symbol": "Dogecoin",
@@ -222,14 +222,14 @@
    "opened": "2026-10-29 02:00",
    "committed": 1000.0,
    "avg_entry": 0.07806,
-   "mark": 0.07138,
-   "mark_when": "2026-11-06 06:05",
+   "mark": 0.07123,
+   "mark_when": "2026-11-06 07:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1172.67,
-   "pl": -200.7,
-   "upl_unit_pct": -17.12,
-   "value": 971.97
+   "pl": -205.21,
+   "upl_unit_pct": -17.5,
+   "value": 967.46
   },
   {
    "symbol": "Copper",
@@ -239,14 +239,14 @@
    "opened": "2026-09-22 16:00",
    "committed": 1000.0,
    "avg_entry": 6.837,
-   "mark": 6.229,
-   "mark_when": "2026-11-06 05:54",
+   "mark": 6.2115,
+   "mark_when": "2026-11-06 06:55",
    "frozen": false,
    "group": "Metals",
    "deployed": 944.31,
-   "pl": -167.95,
-   "upl_unit_pct": -17.79,
-   "value": 776.36
+   "pl": -172.78,
+   "upl_unit_pct": -18.3,
+   "value": 771.52
   },
   {
    "symbol": "Nasdaq 100",

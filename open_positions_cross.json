@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-14 22:05:14 UTC",
+ "generated": "2026-11-14 23:05:13 UTC",
  "track": "ENH-CROSS",
  "started": "2026-08-12 22:00",
  "portfolio": {
   "accounts": 23,
   "initial_capital": 23000.0,
-  "capital_after_closed": 24099.34,
-  "realized": 1099.34,
+  "capital_after_closed": 24098.54,
+  "realized": 1098.54,
   "realized_pct": 4.78,
-  "at_risk": 12261.19,
-  "unrealized": -1861.87,
-  "unrealized_pct": -15.19,
-  "total_value": 22237.47,
-  "total_pct": -3.32
+  "at_risk": 12927.85,
+  "unrealized": -1917.35,
+  "unrealized_pct": -14.83,
+  "total_value": 22181.19,
+  "total_pct": -3.56
  },
  "out_of_market": [
   {
@@ -116,23 +116,6 @@
    "value": 998.08
   },
   {
-   "symbol": "Bitcoin",
-   "ticker": "BTC-USD",
-   "side": "LONG",
-   "sizing": 16.7,
-   "opened": "2026-08-12 23:00",
-   "committed": 4000.0,
-   "avg_entry": 63332.339844,
-   "mark": 64222.148438,
-   "mark_when": "2026-11-14 22:05",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 666.67,
-   "pl": 18.73,
-   "upl_unit_pct": 2.81,
-   "value": 1126.99
-  },
-  {
    "symbol": "USD/CAD",
    "ticker": "USDCAD=X",
    "side": "LONG",
@@ -148,6 +131,23 @@
    "pl": 4.01,
    "upl_unit_pct": 2.57,
    "value": 1005.4
+  },
+  {
+   "symbol": "Bitcoin",
+   "ticker": "BTC-USD",
+   "side": "LONG",
+   "sizing": 33.3,
+   "opened": "2026-08-12 23:00",
+   "committed": 4000.0,
+   "avg_entry": 63332.339844,
+   "mark": 63564.96875,
+   "mark_when": "2026-11-14 23:05",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1333.33,
+   "pl": 9.8,
+   "upl_unit_pct": 0.73,
+   "value": 1117.25
   },
   {
    "symbol": "Dow",
@@ -259,14 +259,14 @@
    "opened": "2026-10-17 08:00",
    "committed": 709.2,
    "avg_entry": 540.851028,
-   "mark": 471.89801,
-   "mark_when": "2026-11-14 22:02",
+   "mark": 456.811676,
+   "mark_when": "2026-11-14 23:03",
    "frozen": false,
    "group": "Crypto",
    "deployed": 709.2,
-   "pl": -180.83,
-   "upl_unit_pct": -25.5,
-   "value": 1032.77
+   "pl": -220.4,
+   "upl_unit_pct": -31.08,
+   "value": 993.21
   },
   {
    "symbol": "Solana",
@@ -276,14 +276,14 @@
    "opened": "2026-11-09 06:00",
    "committed": 11.82,
    "avg_entry": 84.383334,
-   "mark": 69.449997,
-   "mark_when": "2026-11-14 22:05",
+   "mark": 69.0,
+   "mark_when": "2026-11-14 23:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 11.82,
-   "pl": -4.18,
-   "upl_unit_pct": -35.39,
-   "value": 1114.07
+   "pl": -4.31,
+   "upl_unit_pct": -36.46,
+   "value": 1113.95
   },
   {
    "symbol": "BNB",
@@ -293,14 +293,14 @@
    "opened": "2026-10-21 20:00",
    "committed": 1143.76,
    "avg_entry": 725.606689,
-   "mark": 575.070007,
-   "mark_when": "2026-11-14 22:05",
+   "mark": 575.119995,
+   "mark_when": "2026-11-14 23:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1143.76,
-   "pl": -474.58,
-   "upl_unit_pct": -41.49,
-   "value": 532.64
+   "pl": -474.42,
+   "upl_unit_pct": -41.48,
+   "value": 532.79
   },
   {
    "symbol": "Silver",
@@ -327,14 +327,14 @@
    "opened": "2026-10-29 02:00",
    "committed": 514.21,
    "avg_entry": 0.076066,
-   "mark": 0.05655,
-   "mark_when": "2026-11-14 22:05",
+   "mark": 0.05619,
+   "mark_when": "2026-11-14 23:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 514.21,
-   "pl": -263.86,
-   "upl_unit_pct": -51.31,
-   "value": 757.48
+   "pl": -268.72,
+   "upl_unit_pct": -52.26,
+   "value": 752.61
   },
   {
    "symbol": "XRP",
@@ -344,14 +344,14 @@
    "opened": "2026-08-21 20:00",
    "committed": 279.52,
    "avg_entry": 1.343414,
-   "mark": 0.9059,
-   "mark_when": "2026-11-14 22:05",
+   "mark": 0.8956,
+   "mark_when": "2026-11-14 23:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 139.76,
-   "pl": -91.03,
-   "upl_unit_pct": -65.13,
-   "value": 954.23
+   "pl": -93.18,
+   "upl_unit_pct": -66.67,
+   "value": 952.09
   }
  ],
  "pools": {
@@ -362,9 +362,9 @@
    "symbols": 5
   },
   "Crypto": {
-   "cash": 8651.58,
-   "unreal": -995.75,
-   "value": 7655.83,
+   "cash": 8650.78,
+   "unreal": -1051.23,
+   "value": 7599.55,
    "symbols": 8
   },
   "Energy": {

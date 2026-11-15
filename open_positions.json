@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-15 01:05:14 UTC",
+ "generated": "2026-11-15 02:05:14 UTC",
  "started": "2026-07-15 20:00",
- "days_running": 122.2,
+ "days_running": 122.3,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
-  "deployed": 18872.28,
-  "value_now": 15397.03,
-  "unrealized": -3475.25,
-  "unrealized_pct": -18.41,
-  "open_positions": 17,
+  "deployed": 19811.79,
+  "value_now": 16293.62,
+  "unrealized": -3518.17,
+  "unrealized_pct": -17.76,
+  "open_positions": 18,
   "up": 5,
   "down": 12,
   "accounts": 23,
@@ -16,8 +16,8 @@
   "capital_after_closed": 25199.92,
   "realized": 2199.92,
   "realized_pct": 9.56,
-  "total_value": 21724.67,
-  "total_pct": -5.54
+  "total_value": 21681.75,
+  "total_pct": -5.73
  },
  "out_of_market": [
   {
@@ -25,12 +25,6 @@
    "tf": "1h",
    "symbol": "AUD/USD",
    "capital": 969.11
-  },
-  {
-   "ticker": "BTC-USD",
-   "tf": "1h",
-   "symbol": "Bitcoin",
-   "capital": 939.51
   },
   {
    "ticker": "ETH-USD",
@@ -145,6 +139,23 @@
   },
   {
    "n": 6,
+   "symbol": "Bitcoin",
+   "ticker": "BTC-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 62905.01953125,
+   "mark": 62905.01953125,
+   "mark_when": "2026-11-15 02:04",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": 0.0,
+   "capital": 939.51,
+   "equity_now": 939.51,
+   "opened": "2026-11-15 02:04"
+  },
+  {
+   "n": 7,
    "symbol": "S&P 500",
    "ticker": "^GSPC",
    "side": "LONG",
@@ -161,7 +172,7 @@
    "opened": "2026-07-15 20:00"
   },
   {
-   "n": 7,
+   "n": 8,
    "symbol": "Dow",
    "ticker": "^DJI",
    "side": "LONG",
@@ -178,7 +189,7 @@
    "opened": "2026-07-15 20:00"
   },
   {
-   "n": 8,
+   "n": 9,
    "symbol": "GBP/USD",
    "ticker": "GBPUSD=X",
    "side": "LONG",
@@ -195,7 +206,7 @@
    "opened": "2026-07-15 20:15"
   },
   {
-   "n": 9,
+   "n": 10,
    "symbol": "Gold",
    "ticker": "GC=F",
    "side": "LONG",
@@ -212,7 +223,7 @@
    "opened": "2026-07-15 20:04"
   },
   {
-   "n": 10,
+   "n": 11,
    "symbol": "Nasdaq 100",
    "ticker": "^NDX",
    "side": "LONG",
@@ -229,7 +240,7 @@
    "opened": "2026-07-15 20:00"
   },
   {
-   "n": 11,
+   "n": 12,
    "symbol": "Copper",
    "ticker": "HG=F",
    "side": "LONG",
@@ -246,7 +257,7 @@
    "opened": "2026-09-23 04:53"
   },
   {
-   "n": 12,
+   "n": 13,
    "symbol": "Silver",
    "ticker": "SI=F",
    "side": "LONG",
@@ -263,88 +274,88 @@
    "opened": "2026-07-15 20:04"
   },
   {
-   "n": 13,
+   "n": 14,
    "symbol": "Monero",
    "ticker": "XMR-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 560.6473388671875,
-   "mark": 467.5542297363281,
-   "mark_when": "2026-11-15 01:03",
+   "mark": 467.4005126953125,
+   "mark_when": "2026-11-15 02:03",
    "frozen": false,
    "jump": null,
-   "upl_pct": -33.21,
+   "upl_pct": -33.26,
    "capital": 2344.0,
-   "equity_now": 1565.58,
+   "equity_now": 1564.3,
    "opened": "2026-10-17 19:04"
   },
   {
-   "n": 14,
+   "n": 15,
    "symbol": "Solana",
    "ticker": "SOL-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 86.61000061035156,
-   "mark": 69.1500015258789,
-   "mark_when": "2026-11-15 01:05",
+   "mark": 68.27999877929688,
+   "mark_when": "2026-11-15 02:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -40.32,
+   "upl_pct": -42.33,
    "capital": 1655.76,
-   "equity_now": 988.18,
+   "equity_now": 954.91,
    "opened": "2026-11-09 06:05"
   },
   {
-   "n": 15,
+   "n": 16,
    "symbol": "BNB",
    "ticker": "BNB-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 747.8499755859375,
-   "mark": 572.4500122070312,
-   "mark_when": "2026-11-15 01:05",
+   "mark": 573.5999755859375,
+   "mark_when": "2026-11-15 02:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -46.91,
+   "upl_pct": -46.6,
    "capital": 1021.6,
-   "equity_now": 542.39,
+   "equity_now": 545.53,
    "opened": "2026-10-21 19:04"
   },
   {
-   "n": 16,
+   "n": 17,
    "symbol": "Dogecoin",
    "ticker": "DOGE-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 0.07934000343084335,
-   "mark": 0.05640000104904175,
-   "mark_when": "2026-11-15 01:05",
+   "mark": 0.05641999840736389,
+   "mark_when": "2026-11-15 02:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -57.83,
+   "upl_pct": -57.78,
    "capital": 1260.87,
-   "equity_now": 531.75,
+   "equity_now": 532.38,
    "opened": "2026-10-29 01:04"
   },
   {
-   "n": 17,
+   "n": 18,
    "symbol": "XRP",
    "ticker": "XRP-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1.3665000200271606,
-   "mark": 0.9175999760627747,
-   "mark_when": "2026-11-15 01:05",
+   "mark": 0.9093000292778015,
+   "mark_when": "2026-11-15 02:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -65.7,
+   "upl_pct": -66.92,
    "capital": 1000.0,
-   "equity_now": 342.99,
+   "equity_now": 330.85,
    "opened": "2026-08-21 19:05"
   }
  ]

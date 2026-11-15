@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-15 12:05:13 UTC",
+ "generated": "2026-11-15 13:05:14 UTC",
  "started": "2026-07-15 20:00",
  "days_running": 122.7,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
   "deployed": 18872.28,
-  "value_now": 16010.92,
-  "unrealized": -2861.36,
-  "unrealized_pct": -15.16,
+  "value_now": 16098.63,
+  "unrealized": -2773.65,
+  "unrealized_pct": -14.7,
   "open_positions": 17,
   "up": 5,
   "down": 12,
@@ -16,8 +16,8 @@
   "capital_after_closed": 25266.63,
   "realized": 2266.63,
   "realized_pct": 9.85,
-  "total_value": 22405.27,
-  "total_pct": -2.59
+  "total_value": 22492.98,
+  "total_pct": -2.2
  },
  "out_of_market": [
   {
@@ -236,13 +236,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 560.6473388671875,
-   "mark": 502.9938659667969,
-   "mark_when": "2026-11-15 12:02",
+   "mark": 505.8696594238281,
+   "mark_when": "2026-11-15 13:02",
    "frozen": false,
    "jump": null,
-   "upl_pct": -20.57,
+   "upl_pct": -19.54,
    "capital": 2344.0,
-   "equity_now": 1861.92,
+   "equity_now": 1885.97,
    "opened": "2026-10-17 19:04"
   },
   {
@@ -264,6 +264,23 @@
   },
   {
    "n": 13,
+   "symbol": "Solana",
+   "ticker": "SOL-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 86.61000061035156,
+   "mark": 72.91999816894531,
+   "mark_when": "2026-11-15 13:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": -31.61,
+   "capital": 1655.76,
+   "equity_now": 1132.32,
+   "opened": "2026-11-09 06:05"
+  },
+  {
+   "n": 14,
    "symbol": "Silver",
    "ticker": "SI=F",
    "side": "LONG",
@@ -280,23 +297,6 @@
    "opened": "2026-07-15 20:04"
   },
   {
-   "n": 14,
-   "symbol": "Solana",
-   "ticker": "SOL-USD",
-   "side": "LONG",
-   "leverage": 2.0,
-   "tf": "1h",
-   "entry_price": 86.61000061035156,
-   "mark": 72.11000061035156,
-   "mark_when": "2026-11-15 12:05",
-   "frozen": false,
-   "jump": null,
-   "upl_pct": -33.48,
-   "capital": 1655.76,
-   "equity_now": 1101.35,
-   "opened": "2026-11-09 06:05"
-  },
-  {
    "n": 15,
    "symbol": "BNB",
    "ticker": "BNB-USD",
@@ -304,13 +304,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 747.8499755859375,
-   "mark": 595.1599731445312,
-   "mark_when": "2026-11-15 12:05",
+   "mark": 597.760009765625,
+   "mark_when": "2026-11-15 13:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -40.83,
+   "upl_pct": -40.14,
    "capital": 1021.6,
-   "equity_now": 604.43,
+   "equity_now": 611.54,
    "opened": "2026-10-21 19:04"
   },
   {
@@ -321,13 +321,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 0.07934000343084335,
-   "mark": 0.058880001306533813,
-   "mark_when": "2026-11-15 12:04",
+   "mark": 0.05926999822258949,
+   "mark_when": "2026-11-15 13:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -51.58,
+   "upl_pct": -50.59,
    "capital": 1260.87,
-   "equity_now": 610.57,
+   "equity_now": 622.97,
    "opened": "2026-10-29 01:04"
   },
   {
@@ -338,13 +338,13 @@
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1.3665000200271606,
-   "mark": 0.9610000252723694,
-   "mark_when": "2026-11-15 12:05",
+   "mark": 0.9700000286102295,
+   "mark_when": "2026-11-15 13:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -59.35,
+   "upl_pct": -58.03,
    "capital": 1000.0,
-   "equity_now": 406.51,
+   "equity_now": 419.69,
    "opened": "2026-08-21 19:05"
   }
  ]

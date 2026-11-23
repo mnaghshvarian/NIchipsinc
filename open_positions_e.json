@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23 03:05:13 UTC",
+ "generated": "2026-11-23 04:05:13 UTC",
  "track": "CERT-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": -408.22,
   "realized_pct": -1.77,
   "at_risk": 10997.81,
-  "unrealized": -2713.55,
-  "unrealized_pct": -24.67,
-  "total_value": 19878.23,
-  "total_pct": -13.57
+  "unrealized": -2635.43,
+  "unrealized_pct": -23.96,
+  "total_value": 19956.35,
+  "total_pct": -13.23
  },
  "out_of_market": [
   {
@@ -97,14 +97,14 @@
    "opened": "2026-09-17 01:00",
    "committed": 1000.0,
    "avg_entry": 156.171997,
-   "mark": 158.932007,
-   "mark_when": "2026-11-23 03:05",
+   "mark": 158.990005,
+   "mark_when": "2026-11-23 04:05",
    "frozen": false,
    "group": "FX",
    "deployed": 982.73,
-   "pl": 34.74,
-   "upl_unit_pct": 3.53,
-   "value": 1017.46
+   "pl": 35.47,
+   "upl_unit_pct": 3.61,
+   "value": 1018.19
   },
   {
    "symbol": "USD/CAD",
@@ -114,31 +114,14 @@
    "opened": "2026-11-09 12:00",
    "committed": 1000.0,
    "avg_entry": 1.40934,
-   "mark": 1.43354,
-   "mark_when": "2026-11-23 03:05",
+   "mark": 1.4334,
+   "mark_when": "2026-11-23 04:05",
    "frozen": false,
    "group": "FX",
    "deployed": 1006.31,
-   "pl": 34.56,
-   "upl_unit_pct": 3.43,
-   "value": 1040.86
-  },
-  {
-   "symbol": "GBP/USD",
-   "ticker": "GBPUSD=X",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 1.358936,
-   "mark": 1.310788,
-   "mark_when": "2026-11-23 03:04",
-   "frozen": false,
-   "group": "FX",
-   "deployed": 985.8,
-   "pl": -69.85,
-   "upl_unit_pct": -7.09,
-   "value": 915.94
+   "pl": 34.36,
+   "upl_unit_pct": 3.41,
+   "value": 1040.67
   },
   {
    "symbol": "Litecoin",
@@ -148,14 +131,31 @@
    "opened": "2026-11-20 11:00",
    "committed": 1000.0,
    "avg_entry": 41.375999,
-   "mark": 39.868,
-   "mark_when": "2026-11-23 03:05",
+   "mark": 40.264,
+   "mark_when": "2026-11-23 04:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1106.95,
-   "pl": -80.69,
-   "upl_unit_pct": -7.29,
-   "value": 1026.26
+   "pl": -59.5,
+   "upl_unit_pct": -5.38,
+   "value": 1047.45
+  },
+  {
+   "symbol": "GBP/USD",
+   "ticker": "GBPUSD=X",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 1.358936,
+   "mark": 1.310771,
+   "mark_when": "2026-11-23 04:04",
+   "frozen": false,
+   "group": "FX",
+   "deployed": 985.8,
+   "pl": -69.88,
+   "upl_unit_pct": -7.09,
+   "value": 915.92
   },
   {
    "symbol": "Dow",
@@ -216,14 +216,14 @@
    "opened": "2026-11-09 07:00",
    "committed": 1000.0,
    "avg_entry": 85.760002,
-   "mark": 70.57,
-   "mark_when": "2026-11-23 03:05",
+   "mark": 71.209999,
+   "mark_when": "2026-11-23 04:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 971.22,
-   "pl": -344.05,
-   "upl_unit_pct": -35.42,
-   "value": 627.17
+   "pl": -329.55,
+   "upl_unit_pct": -33.93,
+   "value": 641.67
   },
   {
    "symbol": "Copper",
@@ -233,14 +233,14 @@
    "opened": "2026-09-22 17:00",
    "committed": 1000.0,
    "avg_entry": 6.8535,
-   "mark": 5.4475,
-   "mark_when": "2026-11-23 02:55",
+   "mark": 5.5265,
+   "mark_when": "2026-11-23 03:54",
    "frozen": false,
    "group": "Metals",
    "deployed": 880.23,
-   "pl": -361.16,
-   "upl_unit_pct": -41.03,
-   "value": 519.07
+   "pl": -340.87,
+   "upl_unit_pct": -38.72,
+   "value": 539.36
   },
   {
    "symbol": "BNB",
@@ -250,14 +250,14 @@
    "opened": "2026-10-21 21:00",
    "committed": 1000.0,
    "avg_entry": 749.119995,
-   "mark": 555.299988,
-   "mark_when": "2026-11-23 03:05",
+   "mark": 557.130005,
+   "mark_when": "2026-11-23 04:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1086.77,
-   "pl": -562.36,
-   "upl_unit_pct": -51.75,
-   "value": 524.41
+   "pl": -557.05,
+   "upl_unit_pct": -51.26,
+   "value": 529.72
   },
   {
    "symbol": "Dogecoin",
@@ -267,14 +267,14 @@
    "opened": "2026-10-29 03:00",
    "committed": 1000.0,
    "avg_entry": 0.07801,
-   "mark": 0.05476,
-   "mark_when": "2026-11-23 03:04",
+   "mark": 0.05535,
+   "mark_when": "2026-11-23 04:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1079.62,
-   "pl": -643.54,
-   "upl_unit_pct": -59.61,
-   "value": 436.08
+   "pl": -627.21,
+   "upl_unit_pct": -58.1,
+   "value": 452.41
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27 11:05:13 UTC",
+ "generated": "2026-11-27 12:05:14 UTC",
  "track": "ENH-CONF-FIN",
  "started": "2026-08-28 02:00",
  "portfolio": {
@@ -9,9 +9,9 @@
   "realized": -1176.7,
   "realized_pct": -5.12,
   "at_risk": 11635.75,
-  "unrealized": -2147.65,
-  "unrealized_pct": -18.46,
-  "total_value": 19675.65,
+  "unrealized": -2147.12,
+  "unrealized_pct": -18.45,
+  "total_value": 19676.18,
   "total_pct": -14.45
  },
  "out_of_market": [
@@ -130,14 +130,14 @@
    "opened": "2026-09-17 01:00",
    "committed": 1000.0,
    "avg_entry": 156.171997,
-   "mark": 159.464996,
-   "mark_when": "2026-11-27 11:05",
+   "mark": 159.389008,
+   "mark_when": "2026-11-27 12:05",
    "frozen": false,
    "group": "FX",
    "deployed": 330.8,
-   "pl": 13.95,
-   "upl_unit_pct": 4.22,
-   "value": 1006.36
+   "pl": 13.63,
+   "upl_unit_pct": 4.12,
+   "value": 1006.03
   },
   {
    "symbol": "USD/CAD",
@@ -147,31 +147,14 @@
    "opened": "2026-11-09 12:00",
    "committed": 1000.0,
    "avg_entry": 1.40934,
-   "mark": 1.42353,
-   "mark_when": "2026-11-27 11:05",
+   "mark": 1.42411,
+   "mark_when": "2026-11-27 12:05",
    "frozen": false,
    "group": "FX",
    "deployed": 333.71,
-   "pl": 6.72,
-   "upl_unit_pct": 2.01,
-   "value": 1007.84
-  },
-  {
-   "symbol": "Monero",
-   "ticker": "XMR-USD",
-   "side": "LONG",
-   "sizing": 50.0,
-   "opened": "2026-08-28 03:00",
-   "committed": 1000.0,
-   "avg_entry": 447.282987,
-   "mark": 444.257812,
-   "mark_when": "2026-11-27 11:03",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 565.65,
-   "pl": -7.65,
-   "upl_unit_pct": -1.35,
-   "value": 1123.65
+   "pl": 6.99,
+   "upl_unit_pct": 2.1,
+   "value": 1008.12
   },
   {
    "symbol": "GBP/USD",
@@ -181,14 +164,31 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.33172,
-   "mark": 1.313284,
-   "mark_when": "2026-11-27 11:04",
+   "mark": 1.31318,
+   "mark_when": "2026-11-27 12:04",
    "frozen": false,
    "group": "FX",
    "deployed": 990.08,
-   "pl": -27.41,
-   "upl_unit_pct": -2.77,
-   "value": 962.67
+   "pl": -27.57,
+   "upl_unit_pct": -2.78,
+   "value": 962.51
+  },
+  {
+   "symbol": "Monero",
+   "ticker": "XMR-USD",
+   "side": "LONG",
+   "sizing": 50.0,
+   "opened": "2026-08-28 03:00",
+   "committed": 1000.0,
+   "avg_entry": 447.282987,
+   "mark": 440.082886,
+   "mark_when": "2026-11-27 12:03",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 565.65,
+   "pl": -18.21,
+   "upl_unit_pct": -3.22,
+   "value": 1113.09
   },
   {
    "symbol": "S&P 500",
@@ -233,7 +233,7 @@
    "committed": 1000.0,
    "avg_entry": 83.986666,
    "mark": 73.059998,
-   "mark_when": "2026-11-27 11:05",
+   "mark_when": "2026-11-27 12:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 963.28,
@@ -266,14 +266,14 @@
    "opened": "2026-10-21 21:00",
    "committed": 1000.0,
    "avg_entry": 725.680013,
-   "mark": 562.400024,
-   "mark_when": "2026-11-27 11:04",
+   "mark": 563.23999,
+   "mark_when": "2026-11-27 12:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1072.38,
-   "pl": -482.58,
-   "upl_unit_pct": -45.0,
-   "value": 589.8
+   "pl": -480.09,
+   "upl_unit_pct": -44.77,
+   "value": 592.28
   },
   {
    "symbol": "Dogecoin",
@@ -283,14 +283,14 @@
    "opened": "2026-10-29 03:00",
    "committed": 1000.0,
    "avg_entry": 0.075787,
-   "mark": 0.05835,
-   "mark_when": "2026-11-27 11:04",
+   "mark": 0.05879,
+   "mark_when": "2026-11-27 12:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1150.74,
-   "pl": -529.51,
-   "upl_unit_pct": -46.02,
-   "value": 621.23
+   "pl": -516.15,
+   "upl_unit_pct": -44.85,
+   "value": 634.59
   },
   {
    "symbol": "XRP",
@@ -300,14 +300,14 @@
    "opened": "2026-08-28 03:00",
    "committed": 1000.0,
    "avg_entry": 1.394581,
-   "mark": 0.9769,
-   "mark_when": "2026-11-27 11:05",
+   "mark": 0.974,
+   "mark_when": "2026-11-27 12:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1093.86,
-   "pl": -655.23,
-   "upl_unit_pct": -59.9,
-   "value": 438.63
+   "pl": -659.78,
+   "upl_unit_pct": -60.32,
+   "value": 434.08
   }
  ]
 }

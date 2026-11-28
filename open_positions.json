@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-28 09:05:14 UTC",
+ "generated": "2026-11-28 10:05:13 UTC",
  "started": "2026-07-15 20:00",
- "days_running": 135.5,
+ "days_running": 135.6,
  "note": "Open paper positions, ranked best to worst. Unrealized P/L is marked at the latest SCAN price (hourly), not real-time. While a market is closed the last mark is held (frozen=true); display-only, not part of the integrity chain.",
  "portfolio": {
-  "deployed": 14216.52,
-  "value_now": 11128.95,
-  "unrealized": -3087.57,
-  "unrealized_pct": -21.72,
-  "open_positions": 13,
+  "deployed": 15275.36,
+  "value_now": 12230.21,
+  "unrealized": -3045.15,
+  "unrealized_pct": -19.94,
+  "open_positions": 14,
   "up": 5,
   "down": 8,
   "accounts": 23,
@@ -16,8 +16,8 @@
   "capital_after_closed": 23980.66,
   "realized": 980.66,
   "realized_pct": 4.26,
-  "total_value": 20893.09,
-  "total_pct": -9.16
+  "total_value": 20935.51,
+  "total_pct": -8.98
  },
  "out_of_market": [
   {
@@ -73,12 +73,6 @@
    "tf": "1h",
    "symbol": "Silver",
    "capital": 454.32
-  },
-  {
-   "ticker": "SOL-USD",
-   "tf": "1h",
-   "symbol": "Solana",
-   "capital": 1058.84
   }
  ],
  "open_positions": [
@@ -169,6 +163,23 @@
   },
   {
    "n": 6,
+   "symbol": "Solana",
+   "ticker": "SOL-USD",
+   "side": "LONG",
+   "leverage": 2.0,
+   "tf": "1h",
+   "entry_price": 71.0199966430664,
+   "mark": 71.0199966430664,
+   "mark_when": "2026-11-28 10:05",
+   "frozen": false,
+   "jump": null,
+   "upl_pct": 0.0,
+   "capital": 1058.84,
+   "equity_now": 1058.84,
+   "opened": "2026-11-28 10:05"
+  },
+  {
+   "n": 7,
    "symbol": "GBP/USD",
    "ticker": "GBPUSD=X",
    "side": "LONG",
@@ -185,7 +196,7 @@
    "opened": "2026-07-15 20:15"
   },
   {
-   "n": 7,
+   "n": 8,
    "symbol": "S&P 500",
    "ticker": "^GSPC",
    "side": "LONG",
@@ -202,7 +213,7 @@
    "opened": "2026-07-15 20:00"
   },
   {
-   "n": 8,
+   "n": 9,
    "symbol": "Nasdaq 100",
    "ticker": "^NDX",
    "side": "LONG",
@@ -219,7 +230,7 @@
    "opened": "2026-07-15 20:00"
   },
   {
-   "n": 9,
+   "n": 10,
    "symbol": "Copper",
    "ticker": "HG=F",
    "side": "LONG",
@@ -236,71 +247,71 @@
    "opened": "2026-09-23 04:53"
   },
   {
-   "n": 10,
+   "n": 11,
    "symbol": "Monero",
    "ticker": "XMR-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 560.6473388671875,
-   "mark": 435.7498779296875,
-   "mark_when": "2026-11-28 09:04",
+   "mark": 441.4451904296875,
+   "mark_when": "2026-11-28 10:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -44.55,
+   "upl_pct": -42.52,
    "capital": 2344.0,
-   "equity_now": 1299.64,
+   "equity_now": 1347.26,
    "opened": "2026-10-17 19:04"
   },
   {
-   "n": 11,
+   "n": 12,
    "symbol": "BNB",
    "ticker": "BNB-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 747.8499755859375,
-   "mark": 550.1400146484375,
-   "mark_when": "2026-11-28 09:04",
+   "mark": 551.1099853515625,
+   "mark_when": "2026-11-28 10:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -52.87,
+   "upl_pct": -52.61,
    "capital": 1021.6,
-   "equity_now": 481.43,
+   "equity_now": 484.08,
    "opened": "2026-10-21 19:04"
   },
   {
-   "n": 12,
+   "n": 13,
    "symbol": "Dogecoin",
    "ticker": "DOGE-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 0.07934000343084335,
-   "mark": 0.0568699985742569,
-   "mark_when": "2026-11-28 09:04",
+   "mark": 0.0566600002348423,
+   "mark_when": "2026-11-28 10:04",
    "frozen": false,
    "jump": null,
-   "upl_pct": -56.64,
+   "upl_pct": -57.17,
    "capital": 1260.87,
-   "equity_now": 546.69,
+   "equity_now": 540.01,
    "opened": "2026-10-29 01:04"
   },
   {
-   "n": 13,
+   "n": 14,
    "symbol": "XRP",
    "ticker": "XRP-USD",
    "side": "LONG",
    "leverage": 2.0,
    "tf": "1h",
    "entry_price": 1.3665000200271606,
-   "mark": 0.940500020980835,
-   "mark_when": "2026-11-28 09:04",
+   "mark": 0.9397000074386597,
+   "mark_when": "2026-11-28 10:05",
    "frozen": false,
    "jump": null,
-   "upl_pct": -62.35,
+   "upl_pct": -62.47,
    "capital": 1000.0,
-   "equity_now": 376.51,
+   "equity_now": 375.34,
    "opened": "2026-08-21 19:05"
   }
  ]

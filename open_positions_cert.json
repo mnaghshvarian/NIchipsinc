@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28 02:05:13 UTC",
+ "generated": "2026-11-28 03:05:14 UTC",
  "track": "CERT-ISO",
  "started": "2026-08-13 23:00",
  "portfolio": {
@@ -9,10 +9,10 @@
   "realized": 1925.41,
   "realized_pct": 8.37,
   "at_risk": 9658.87,
-  "unrealized": -2366.01,
-  "unrealized_pct": -24.5,
-  "total_value": 22559.4,
-  "total_pct": -1.92
+  "unrealized": -2392.91,
+  "unrealized_pct": -24.77,
+  "total_value": 22532.5,
+  "total_pct": -2.03
  },
  "out_of_market": [
   {
@@ -128,7 +128,7 @@
    "avg_entry": 1.40858,
    "mark": 1.4248,
    "mark_when": "2026-11-27 23:00",
-   "frozen": false,
+   "frozen": true,
    "group": "FX",
    "deployed": 1010.63,
    "pl": 23.28,
@@ -194,14 +194,14 @@
    "opened": "2026-11-09 06:00",
    "committed": 1000.0,
    "avg_entry": 86.620003,
-   "mark": 72.040001,
-   "mark_when": "2026-11-28 02:05",
+   "mark": 71.660004,
+   "mark_when": "2026-11-28 03:05",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1385.79,
-   "pl": -466.51,
-   "upl_unit_pct": -33.66,
-   "value": 919.27
+   "pl": -478.67,
+   "upl_unit_pct": -34.54,
+   "value": 907.11
   },
   {
    "symbol": "Copper",
@@ -221,23 +221,6 @@
    "value": 602.74
   },
   {
-   "symbol": "Dogecoin",
-   "ticker": "DOGE-USD",
-   "side": "LONG",
-   "sizing": 100.0,
-   "opened": "2026-10-29 02:00",
-   "committed": 1000.0,
-   "avg_entry": 0.07806,
-   "mark": 0.05795,
-   "mark_when": "2026-11-28 02:04",
-   "frozen": false,
-   "group": "Crypto",
-   "deployed": 1172.67,
-   "pl": -604.21,
-   "upl_unit_pct": -51.52,
-   "value": 568.46
-  },
-  {
    "symbol": "BNB",
    "ticker": "BNB-USD",
    "side": "LONG",
@@ -245,14 +228,31 @@
    "opened": "2026-10-21 20:00",
    "committed": 1000.0,
    "avg_entry": 748.900024,
-   "mark": 555.72998,
-   "mark_when": "2026-11-28 02:04",
+   "mark": 554.669983,
+   "mark_when": "2026-11-28 03:04",
    "frozen": false,
    "group": "Crypto",
    "deployed": 1171.77,
-   "pl": -604.49,
-   "upl_unit_pct": -51.59,
-   "value": 567.28
+   "pl": -607.81,
+   "upl_unit_pct": -51.87,
+   "value": 563.96
+  },
+  {
+   "symbol": "Dogecoin",
+   "ticker": "DOGE-USD",
+   "side": "LONG",
+   "sizing": 100.0,
+   "opened": "2026-10-29 02:00",
+   "committed": 1000.0,
+   "avg_entry": 0.07806,
+   "mark": 0.05757,
+   "mark_when": "2026-11-28 03:04",
+   "frozen": false,
+   "group": "Crypto",
+   "deployed": 1172.67,
+   "pl": -615.63,
+   "upl_unit_pct": -52.5,
+   "value": 557.04
   }
  ]
 }
